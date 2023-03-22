@@ -1,0 +1,64 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{ opt} & \textbf{ avg} & \textbf{opt} & \textbf{ avg} & \textbf{ opt} & \textbf{  avg} & \textbf{ opt} & \textbf{ avg} & \textbf{ opt} & \textbf{  avg} \\
+\noalign{\hrule height 1.5pt}
+LinearRegression\_5&10&-3565.51 & -3565.41&\textbf{-3565.51} & \textbf{-3565.26}&-3565.51 & -3563.97&-3565.51 & -3565.44&-3565.51 & -3565.42\\
+\hline
+LinearRegression\_6&12&-35.28 & -35.28&\textbf{-35.28} & \textbf{-35.28}&-35.28 & -35.25&-35.28 & -35.28&-35.28 & -35.28\\
+\hline
+LinearRegression\_7&14&-2194.86 & -2194.85&-2194.86 & -2194.86&-2194.86 & -2194.82&-2194.86 & -2194.86&\textbf{-2194.86} & \textbf{-2194.86}\\
+\hline
+LinearRegression\_8&16&-3449.68 & -3449.67&\textbf{-3449.68} & \textbf{-3449.66}&-3449.68 & -3449.31&-3449.68 & -3449.68&-3449.68 & -3449.68\\
+\hline
+LinearRegression\_9&18&-574.65 & -574.63&-574.65 & -574.64&-574.65 & -574.63&-574.65 & -574.64&\textbf{-574.65} & \textbf{-574.64}\\
+\hline
+LinearRegression\_11&22&-2054.22 & -2054.20&-2054.22 & -2054.21&-2054.22 & -2054.20&-2054.22 & -2054.21&\textbf{-2054.22} & \textbf{-2054.21}\\
+\hline
+LinearRegression\_12&24&-158.52 & -158.50&-158.52 & -158.52&-158.52 & -158.49&-158.52 & -158.52&\textbf{-158.52} & \textbf{-158.52}\\
+\hline
+LinearRegression\_13&26&-43.79 & -43.77&-43.79 & -43.78&-43.79 & -43.77&-43.79 & -43.78&\textbf{-43.79} & \textbf{-43.78}\\
+\hline
+LinearRegression\_14&28&-1268.22 & -1268.20&-1268.22 & -1268.20&-1268.22 & -1268.17&-1268.22 & -1268.21&\textbf{-1268.22} & \textbf{-1268.20}\\
+\hline
+LinearRegression\_15&300&-174.63 & -174.63&-174.63 & -174.63&\textbf{-174.63} & \textbf{-174.63}&-174.63 & -174.63&-174.63 & -174.63\\
+\hline
+LinearRegression\_16&32&-3345.13 & -3345.13&-3345.13 & -3345.12&\textbf{-3345.13} & \textbf{-3345.12}&-3345.13 & -3345.12&-3345.13 & -3345.12\\
+\hline
+LinearRegression\_17&34&\textbf{-181.54} & \textbf{-181.54}&-181.54 & -181.53&-181.54 & -181.53&-181.54 & -181.53&-181.54 & -181.53\\
+\hline
+LinearRegression\_18&36&-129.89 & -129.89&-129.89 & -129.88&-129.89 & -129.89&\textbf{-129.89} & \textbf{-129.89}&-129.89 & -129.89\\
+\hline
+LinearRegression\_19&38&-2234.23 & -2234.22&-2234.23 & -2234.22&\textbf{-2234.23} & \textbf{-2234.23}&-2234.23 & -2234.22&-2234.23 & -2234.23\\
+\hline
+LinearRegression\_20&40&-2405.43 & -2405.43&-2405.43 & -2405.42&-2405.43 & -2405.43&-2405.43 & -2405.43&\textbf{-2405.43} & \textbf{-2405.43}\\
+\hline
+LinearRegression\_25&500&-159.27 & -159.27&-159.27 & -159.27&\textbf{-159.27} & \textbf{-159.27}&-159.27 & -159.27&-159.27 & -159.27\\
+\hline
+LinearRegression\_35&700&-189.11 & -189.10&-189.11 & -189.10&\textbf{-189.11} & \textbf{-189.11}&-189.11 & -189.11&-189.11 & -189.11\\
+\hline
+LinearRegression\_45&900&-1379.65 & -1379.65&-1379.65 & -1379.65&\textbf{-1379.65} & \textbf{-1379.65}&-1379.65 & -1379.65&-1379.65 & -1379.65\\
+\hline
+LinearRegression\_60&120&-1310.37 & -1310.36&-1310.37 & -1310.36&\textbf{-1310.37} & \textbf{-1310.37}&-1310.37 & -1310.36&-1310.37 & -1310.36\\
+\hline
+LinearRegression\_70&140&-3518.65 & -3518.65&-3518.65 & -3518.65&\textbf{-3518.65} & \textbf{-3518.65}&-3518.65 & -3518.65&-3518.65 & -3518.65\\
+\hline
+LinearRegression\_80&160&-1284.62 & -1284.62&-1284.62 & -1284.62&\textbf{-1284.62} & \textbf{-1284.62}&-1284.62 & -1284.62&-1284.62 & -1284.62\\
+\hline
+LinearRegression\_90&180&-2287.15 & -2287.14&-2287.15 & -2287.14&\textbf{-2287.15} & \textbf{-2287.14}&-2287.15 & -2287.14&-2287.15 & -2287.14\\
+\hline
+LinearRegression\_100&200&-156.18 & -156.18&-156.18 & -156.18&\textbf{-156.18} & \textbf{-156.18}&-156.18 & -156.18&-156.18 & -156.18\\
+\hline
+LinearRegression\_110&220&-235.21 & -235.21&-235.21 & -235.21&\textbf{-235.21} & \textbf{-235.21}&-235.21 & -235.21&-235.21 & -235.21\\
+\hline
+LinearRegression\_120&240&-1246.65 & -1246.65&-1246.65 & -1246.65&\textbf{-1246.65} & \textbf{-1246.65}&-1246.65 & -1246.65&-1246.65 & -1246.65\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

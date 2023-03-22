@@ -1,0 +1,64 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & $p_{\textrm{cons}}$[\%] & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} \\
+\noalign{\hrule height 1.5pt}
+LinearRegression\_5 &1.00e-05&86.00 & 23.42&\textbf{94.00} & \textbf{16.37}&57.00 & 54.57&87.00 & 22.57&82.00 & 26.86\\
+\hline
+LinearRegression\_6 &1.00e-05&99.00 & 12.00&\textbf{100.00} & \textbf{12.00}&93.00 & 20.78&98.00 & 14.13&96.00 & 17.17\\
+\hline
+LinearRegression\_7 &1.00e-05&79.00 & 41.31&99.00 & 14.00&91.00 & 26.77&98.00 & 16.48&\textbf{100.00} & \textbf{14.00}\\
+\hline
+LinearRegression\_8 &1.00e-05&59.00 & 82.64&\textbf{91.00} & \textbf{30.60}&52.00 & 100.39&90.00 & 32.00&90.00 & 32.00\\
+\hline
+LinearRegression\_9 &1.00e-05&13.00 & 595.23&28.00 & 252.33&24.00 & 302.05&40.00 & 162.27&\textbf{49.00} & \textbf{123.11}\\
+\hline
+LinearRegression\_11 &1.00e-05&4.00 & 2481.84&41.00 & 192.02&27.00 & 321.93&41.00 & 192.02&\textbf{50.00} & \textbf{146.16}\\
+\hline
+LinearRegression\_12 &2.11e-05&1.00 & 10997.05&9.00 & 1171.91&16.00 & 633.91&17.00 & 593.16&\textbf{20.00} & \textbf{495.30}\\
+\hline
+LinearRegression\_13 &1.00e-05&1.00 & 11913.47&4.00 & 2933.09&9.00 & 1269.57&10.00 & 1136.43&\textbf{11.00} & \textbf{1027.47}\\
+\hline
+LinearRegression\_14 &1.00e-05&1.00 & 12829.90&2.00 & 6382.55&11.00 & 1106.50&12.00 & 1008.69&\textbf{19.00} & \textbf{611.92}\\
+\hline
+LinearRegression\_15 &1.00e-05&5.00 & 26934.34&5.00 & 26934.34&\textbf{13.00} & \textbf{9920.51}&7.00 & 19037.31&1.00 & 137463.17\\
+\hline
+LinearRegression\_16 &1.00e-05&7.00 & 2030.65&2.00 & 7294.34&\textbf{8.00} & \textbf{1767.36}&4.00 & 3609.95&6.00 & 2381.65\\
+\hline
+LinearRegression\_17 &4.10e-05&\textbf{3.00} & \textbf{5140.51}&1.00 & 15579.16&2.00 & 7750.24&2.00 & 7750.24&2.00 & 7750.24\\
+\hline
+LinearRegression\_18 &4.91e-05&1.00 & 16495.58&1.00 & 16495.58&1.00 & 16495.58&\textbf{2.00} & \textbf{8206.13}&1.00 & 16495.58\\
+\hline
+LinearRegression\_19 &1.00e-05&5.00 & 3411.68&2.00 & 8662.03&\textbf{9.00} & \textbf{1855.53}&4.00 & 4286.82&8.00 & 2098.74\\
+\hline
+LinearRegression\_20 &1.00e-05&9.00 & 1953.19&5.00 & 3591.25&10.00 & 1748.35&12.00 & 1440.99&\textbf{15.00} & \textbf{1133.45}\\
+\hline
+LinearRegression\_25 &1.00e-05&5.00 & 44890.57&1.00 & 229105.29&\textbf{12.00} & \textbf{18012.39}&3.00 & 75595.70&8.00 & 27615.02\\
+\hline
+LinearRegression\_35 &2.75e-05&1.00 & 320747.40&1.00 & 320747.40&\textbf{32.00} & \textbf{8358.65}&18.00 & 16243.91&18.00 & 16243.91\\
+\hline
+LinearRegression\_45 &1.00e-05&28.00 & 12616.75&10.00 & 39337.82&\textbf{58.00} & \textbf{4777.70}&47.00 & 6528.26&31.00 & 11169.65\\
+\hline
+LinearRegression\_60 &1.00e-05&2.00 & 27353.78&1.00 & 54985.27&\textbf{12.00} & \textbf{4322.97}&9.00 & 5859.57&10.00 & 5245.04\\
+\hline
+LinearRegression\_70 &1.00e-05&14.00 & 4274.71&7.00 & 8884.08&\textbf{18.00} & \textbf{3248.78}&9.00 & 6836.17&10.00 & 6119.22\\
+\hline
+LinearRegression\_80 &1.00e-05&9.00 & 7812.77&1.00 & 73313.69&\textbf{16.00} & \textbf{4226.06}&14.00 & 4885.38&13.00 & 5290.94\\
+\hline
+LinearRegression\_90 &1.00e-05&28.00 & 2523.35&8.00 & 9941.41&\textbf{47.00} & \textbf{1305.65}&37.00 & 1794.08&30.00 & 2324.05\\
+\hline
+LinearRegression\_100 &5.08e-05&7.00 & 12691.54&1.00 & 91642.12&\textbf{17.00} & \textbf{4943.04}&10.00 & 8741.74&15.00 & 5667.24\\
+\hline
+LinearRegression\_110 &1.00e-05&2.00 & 50148.60&1.00 & 100806.33&\textbf{3.00} & \textbf{33262.11}&2.00 & 50148.60&1.00 & 100806.33\\
+\hline
+LinearRegression\_120 &1.00e-05&12.00 & 8645.95&6.00 & 17862.36&\textbf{27.00} & \textbf{3511.93}&11.00 & 9484.29&17.00 & 5931.64\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

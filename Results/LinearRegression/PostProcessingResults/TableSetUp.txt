@@ -1,0 +1,64 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+LinearRegression\_5&20&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_6&24&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_7&28&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_8&32&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_9&36&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_11&44&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_12&48&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_13&52&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_14&56&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+LinearRegression\_15&60&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_16&64&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_17&68&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_18&72&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_19&76&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_20&80&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_25&100&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_35&140&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_45&180&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_60&240&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_70&280&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_80&320&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_90&360&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_100&400&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_110&440&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+LinearRegression\_120&480&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
