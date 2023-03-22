@@ -1,0 +1,32 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & $p_{\textrm{cons}}$[\%] & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} \\
+\noalign{\hrule height 1.5pt}
+GraphColouring\_3 &0.10&\textbf{100.00} & \textbf{9.00}&\textbf{100.00} & \textbf{9.00}&\textbf{100.00} & \textbf{9.00}&\textbf{100.00} & \textbf{9.00}&\textbf{100.00} & \textbf{9.00}\\
+\hline
+GraphColouring\_4 &0.10&\textbf{100.00} & \textbf{12.00}&\textbf{100.00} & \textbf{12.00}&97.00 & 15.76&\textbf{100.00} & \textbf{12.00}&\textbf{100.00} & \textbf{12.00}\\
+\hline
+GraphColouring\_5 &0.10&99.00 & 15.00&\textbf{100.00} & \textbf{15.00}&90.00 & 30.00&\textbf{100.00} & \textbf{15.00}&98.00 & 17.66\\
+\hline
+GraphColouring\_6 &0.10&85.00 & 43.69&95.00 & 27.67&56.00 & 100.97&\textbf{96.00} & \textbf{25.75}&91.00 & 34.42\\
+\hline
+GraphColouring\_7 &0.10&21.00 & 410.26&61.00 & 102.71&15.00 & 595.06&56.00 & 117.80&\textbf{62.00} & \textbf{99.95}\\
+\hline
+GraphColouring\_8 &0.10&40.00 & 216.36&\textbf{55.00} & \textbf{138.41}&10.00 & 1049.01&38.00 & 231.20&42.00 & 202.90\\
+\hline
+GraphColouring\_9 &0.10&15.00 & 765.08&31.00 & 335.09&9.00 & 1318.40&\textbf{39.00} & \textbf{251.55}&29.00 & 363.05\\
+\hline
+GraphColouring\_10 &0.10&18.00 & 2784.67&12.00 & 4322.97&20.00 & 2476.52&\textbf{30.00} & \textbf{1549.37}&16.00 & 3169.54\\
+\hline
+GraphColouring\_31 &20.00&0.00 & 171226660.47&\textbf{97.00} & \textbf{48854.84}&0.00 & 171226660.47&0.00 & 171226660.47&0.00 & 171226660.47\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

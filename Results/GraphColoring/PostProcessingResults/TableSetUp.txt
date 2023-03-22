@@ -1,0 +1,32 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+GraphColouring\_3&9&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_4&12&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_5&15&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_6&18&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_7&21&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_8&24&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_9&27&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+GraphColouring\_10&30&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+GraphColouring\_31&93&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

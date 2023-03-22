@@ -1,0 +1,32 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{ opt} & \textbf{ avg} & \textbf{opt} & \textbf{ avg} & \textbf{ opt} & \textbf{  avg} & \textbf{ opt} & \textbf{ avg} & \textbf{ opt} & \textbf{  avg} \\
+\noalign{\hrule height 1.5pt}
+GraphColouring\_3&9&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}\\
+\hline
+GraphColouring\_4&12&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}&0.00 & 0.03&\textbf{0.00} & \textbf{0.00}&\textbf{0.00} & \textbf{0.00}\\
+\hline
+GraphColouring\_5&15&0.00 & 0.01&\textbf{0.00} & \textbf{0.00}&0.00 & 0.10&\textbf{0.00} & \textbf{0.00}&0.00 & 0.02\\
+\hline
+GraphColouring\_6&18&0.00 & 0.15&0.00 & 0.05&0.00 & 0.46&\textbf{0.00} & \textbf{0.04}&0.00 & 0.09\\
+\hline
+GraphColouring\_7&21&0.00 & 1.04&0.00 & 0.43&0.00 & 1.51&0.00 & 0.51&\textbf{0.00} & \textbf{0.48}\\
+\hline
+GraphColouring\_8&24&1.00 & 1.65&\textbf{1.00} & \textbf{1.49}&1.00 & 2.49&1.00 & 1.71&1.00 & 1.67\\
+\hline
+GraphColouring\_9&27&0.00 & 1.21&0.00 & 0.86&0.00 & 1.89&\textbf{0.00} & \textbf{0.82}&0.00 & 0.93\\
+\hline
+GraphColouring\_10&120&1.00 & 1.83&1.00 & 1.98&1.00 & 1.81&\textbf{1.00} & \textbf{1.72}&1.00 & 1.84\\
+\hline
+GraphColouring\_31&37200&33.00 & 42.74&\textbf{16.00} & \textbf{18.37}&20.00 & 23.97&21.00 & 24.04&20.00 & 24.04\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
