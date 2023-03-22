@@ -1,0 +1,60 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+Clustering\_4&16&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Clustering\_5&20&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_6&24&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_7&28&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_8&32&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_9&36&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_10&40&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_11&44&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_12&48&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_13&52&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_14&56&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_15&60&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_16&64&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_17&68&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_18&72&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_19&76&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_20&80&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_21&84&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_22&88&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_23&92&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_24&96&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_25&100&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Clustering\_26&104&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

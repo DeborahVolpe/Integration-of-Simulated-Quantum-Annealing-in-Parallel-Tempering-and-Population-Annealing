@@ -1,0 +1,60 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{$\Delta$  opt} & \textbf{$\Delta$  avg} & \textbf{$\Delta$  opt} & \textbf{$\Delta$ avg} & \textbf{$\Delta$  opt} & \textbf{$\Delta$  avg} & \textbf{$\Delta$  opt} & \textbf{$\Delta$  avg} & \textbf{$\Delta$  opt} & \textbf{$\Delta$  avg} \\
+\noalign{\hrule height 1.5pt}
+Clustering\_4&16&0.00e+00 & 7.03e-13&\textbf{0.00e+00} & \textbf{5.89e-13}&6.82e-13 & 9.00e-13&2.27e-13 & 6.03e-13&0.00e+00 & 5.84e-13\\
+\hline
+Clustering\_5&200&4.77e-12 & 7.73e-12&2.73e-12 & 6.62e-12&8.19e-12 & 9.51e-12&6.82e-13 & 5.08e-12&\textbf{0.00e+00} & \textbf{4.87e-12}\\
+\hline
+Clustering\_6&240&2.27e-12 & 8.05e-12&\textbf{4.55e-13} & \textbf{6.46e-12}&7.28e-12 & 1.03e-11&1.82e-12 & 6.82e-12&0.00e+00 & 6.36e-12\\
+\hline
+Clustering\_7&280&3.64e-12 & 1.46e+00&\textbf{0.00e+00} & \textbf{4.94e-12}&4.09e-12 & 9.05e-12&4.55e-13 & 6.83e-12&4.55e-13 & 6.38e-12\\
+\hline
+Clustering\_8&640&1.00e-11 & 1.21e+01&\textbf{9.09e-13} & \textbf{2.03e-11}&3.87e-11 & 5.48e-11&0.00e+00 & 2.08e-11&\textbf{4.55e-12} & \textbf{1.87e-11}\\
+\hline
+Clustering\_9&720&1.18e-11 & 3.02e+01&\textbf{4.55e-12} & \textbf{1.60e-11}&2.73e-12 & 2.26e-11&0.00e+00 & 2.23e-11&2.73e-12 & 2.29e-11\\
+\hline
+Clustering\_10&800&8.09e-11 & 6.01e+01&\textbf{3.18e-11} & \textbf{6.36e-11}&7.09e-11 & 1.02e-10&1.64e-11 & 6.91e-11&0.00e+00 & 5.72e-11\\
+\hline
+Clustering\_11&880&1.04e-10 & 7.82e+01&\textbf{3.82e-11} & \textbf{9.04e-11}&6.73e-11 & 1.24e-10&1.64e-11 & 1.03e-10&0.00e+00 & 8.71e-11\\
+\hline
+Clustering\_12&960&2.17e+01 & 1.15e+02&\textbf{1.44e-10} & \textbf{1.88e-10}&\textbf{1.87e-10} & \textbf{2.59e-10}&\textbf{0.00e+00} & \textbf{1.70e-10}&\textbf{2.82e-11} & \textbf{1.23e-10}\\
+\hline
+Clustering\_13&1040&1.51e-10 & 1.20e+02&\textbf{1.64e-11} & \textbf{7.85e-11}&6.37e-11 & 1.36e-10&0.00e+00 & 1.08e-10&\textbf{5.46e-12} & \textbf{9.52e-11}\\
+\hline
+Clustering\_14&1120&1.06e+01 & 1.40e+02&\textbf{8.19e-11} & \textbf{1.97e-10}&\textbf{2.07e-10} & \textbf{2.84e-10}&\textbf{3.27e-11} & \textbf{2.33e-10}&\textbf{0.00e+00} & \textbf{1.71e-10}\\
+\hline
+Clustering\_15&1200&1.96e-10 & 9.37e+01&\textbf{5.64e-11} & \textbf{1.16e-10}&0.00e+00 & 1.72e-10&1.09e-11 & 1.56e-10&6.55e-11 & 1.48e-10\\
+\hline
+Clustering\_16&1280&3.00e-10 & 8.33e+01&\textbf{9.82e-11} & \textbf{1.93e-10}&1.42e-10 & 2.92e-10&1.07e-10 & 2.77e-10&\textbf{0.00e+00} & \textbf{1.62e-10}\\
+\hline
+Clustering\_17&1360&8.66e-10 & 7.79e+01&\textbf{4.69e-10} & \textbf{6.51e-10}&7.48e-10 & 9.16e-10&3.27e-10 & 8.68e-10&0.00e+00 & 5.51e-10\\
+\hline
+Clustering\_18&1440&1.17e+00 & 6.77e+01&\textbf{0.00e+00} & \textbf{2.25e-10}&\textbf{1.22e-10} & \textbf{2.80e-10}&\textbf{1.55e-10} & \textbf{4.10e-04}&\textbf{0.00e+00} & \textbf{2.05e-04}\\
+\hline
+Clustering\_19&1520&5.61e+00 & 5.22e+01&\textbf{4.40e-10} & \textbf{6.47e-01}&\textbf{3.35e-10} & \textbf{6.12e-01}&\textbf{4.44e-10} & \textbf{7.48e-01}&\textbf{0.00e+00} & \textbf{5.46e-01}\\
+\hline
+Clustering\_20&1600&9.00e+00 & 4.86e+01&\textbf{1.82e-10} & \textbf{3.62e+00}&3.38e-10 & 3.12e+00&3.67e-10 & 6.10e+00&0.00e+00 & 3.57e+00\\
+\hline
+Clustering\_21&1680&9.58e+00 & 5.26e+01&\textbf{8.22e-10} & \textbf{9.58e-01}&\textbf{3.67e-10} & \textbf{1.21e-01}&\textbf{6.33e-10} & \textbf{4.23e-01}&\textbf{0.00e+00} & \textbf{1.09e-01}\\
+\hline
+Clustering\_22&1760&5.27e+00 & 2.45e+01&2.33e-10 & 3.31e+00&\textbf{1.09e-10} & \textbf{2.49e+00}&2.29e-10 & 3.42e+00&0.00e+00 & 3.49e+00\\
+\hline
+Clustering\_23&1840&2.21e+00 & 1.28e+01&1.82e-09 & 7.46e-01&\textbf{1.38e-10} & \textbf{2.66e-01}&0.00e+00 & 8.86e-01&4.37e-10 & 5.05e-01\\
+\hline
+Clustering\_24&1920&1.31e+00 & 2.28e+01&\textbf{1.82e-11} & \textbf{3.15e+00}&1.78e-10 & 6.43e+00&0.00e+00 & 1.10e+01&1.56e-10 & 9.45e+00\\
+\hline
+Clustering\_25&2000&2.12e+00 & 3.38e+01&4.15e-10 & 1.23e+01&\textbf{5.28e-10} & \textbf{3.32e+00}&5.68e-10 & 5.23e+00&0.00e+00 & 4.82e+00\\
+\hline
+Clustering\_26&2080&1.31e+01 & 6.62e+01&\textbf{8.15e-10} & \textbf{1.02e+00}&1.96e-10 & 7.04e+00&0.00e+00 & 7.61e+00&3.20e-10 & 6.76e+00\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
