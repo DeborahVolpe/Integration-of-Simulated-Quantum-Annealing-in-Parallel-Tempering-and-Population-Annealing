@@ -1,0 +1,108 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+Knpasack\_2&2&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_6&6&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_7&7&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_8&8&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_10&10&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_11&11&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_12&12&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_13&13&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_14&14&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_16&16&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_18&18&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_19&19&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_20&20&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_21&21&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_22&22&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_23&23&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_24&24&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_25&25&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_26&26&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_27&27&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_28&28&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_29&29&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+Knpasack\_30&30&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_31&31&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_32&32&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_33&33&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_34&34&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_35&35&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_37&37&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_38&38&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_39&39&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_41&41&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_43&43&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_44&44&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_46&46&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_47&47&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_48&48&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_49&49&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_51&51&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_52&52&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_53&53&32 & 32&4 & 8&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_54&54&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_55&55&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+Knpasack\_56&56&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_57&57&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_58&58&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+Knpasack\_59&59&32 & 32&4 & 8&4 & 8&4 & 4&4&4 & 4&4\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

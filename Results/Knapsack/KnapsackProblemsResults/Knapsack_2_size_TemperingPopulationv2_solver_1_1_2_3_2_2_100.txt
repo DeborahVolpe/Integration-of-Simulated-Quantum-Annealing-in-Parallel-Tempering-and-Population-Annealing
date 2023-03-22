@@ -1,0 +1,151 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin2
+The considered Annealing Duration 2
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [[-1 -1]
+ [ 1  1]]
+The value found -6.0
+The Success probability is 1.0
+The average value is -6.0
+The total execution time is 0.07821989059448242
+The average time for execution is 0.00078141450881958
+The average time for all systems update is 0.00021553397178649902
+The average time for system tempering update is 1.916368802388509e-05
+The average time for system population update is 0.007117748260498047
+The average time for replica update is 8.91125202178955e-06
+The average time for spin update is 3.637075424194336e-06
+The list of values found 
+
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+
+
+
+The list of values first execution 
+
+-5.7
+-3.0
+
+
+
+The list of best values first execution 
+
+-6.0
+-6.0
+
+
+
+The list of values average 
+
+-4.457999999999999
+-3.7470000000000003
+
+
+
+The list of best values average 
+
+-5.99999999999999
+-5.99999999999999

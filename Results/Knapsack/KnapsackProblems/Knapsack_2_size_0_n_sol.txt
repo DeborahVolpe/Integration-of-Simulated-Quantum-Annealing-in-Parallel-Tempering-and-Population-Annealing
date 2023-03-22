@@ -1,0 +1,3 @@
+Offset 0
+Energy -6.0
+Solution {0: 1, 1: 1}
