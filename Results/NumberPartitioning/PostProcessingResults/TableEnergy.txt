@@ -1,0 +1,60 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} \\
+\noalign{\hrule height 1.5pt}
+NumberPartitioning\_10&10&\textbf{96100.00} & \textbf{939751.96}&96100.00 & 1080232.28&96100.00 & 1691727.16&96100.00 & 1375236.96&96100.00 & 1692447.16\\
+\hline
+NumberPartitioning\_20&20&\textbf{1.00} & \textbf{500670.52}&9.00 & 719254.76&441.00 & 921029.24&81.00 & 710539.24&9.00 & 597222.12\\
+\hline
+NumberPartitioning\_30&30&1.00 & 30789.88&25.00 & 36294.92&9.00 & 66638.68&\textbf{1.00} & \textbf{31594.92}&25.00 & 33995.64\\
+\hline
+NumberPartitioning\_40&40&\textbf{4.00} & \textbf{93099.20}&16.00 & 82772.40&144.00 & 177001.24&16.00 & 153620.24&16.00 & 136018.36\\
+\hline
+NumberPartitioning\_50&200&0.00 & 5548.00&0.00 & 5088.04&4.00 & 10990.56&\textbf{0.00} & \textbf{7557.48}&4.00 & 9020.40\\
+\hline
+NumberPartitioning\_60&240&16.00 & 44570.80&\textbf{0.00} & \textbf{47638.20}&0.00 & 114826.52&4.00 & 86962.88&4.00 & 69656.64\\
+\hline
+NumberPartitioning\_70&280&0.00 & 2865.40&\textbf{0.00} & \textbf{2883.20}&0.00 & 6820.12&4.00 & 3756.52&4.00 & 3123.96\\
+\hline
+NumberPartitioning\_80&320&1.00 & 23157.64&\textbf{1.00} & \textbf{22475.72}&9.00 & 36160.12&1.00 & 31681.56&1.00 & 40771.72\\
+\hline
+NumberPartitioning\_90&360&1.00 & 62042.04&1.00 & 62679.56&1.00 & 65237.08&\textbf{1.00} & \textbf{53520.84}&49.00 & 55889.72\\
+\hline
+NumberPartitioning\_100&400&\textbf{0.00} & \textbf{34211.52}&4.00 & 32500.00&4.00 & 29220.32&4.00 & 33642.24&16.00 & 38132.00\\
+\hline
+NumberPartitioning\_110&440&\textbf{1.00} & \textbf{5501.00}&1.00 & 7145.64&1.00 & 9657.48&1.00 & 8043.64&1.00 & 8803.64\\
+\hline
+NumberPartitioning\_120&480&\textbf{0.00} & \textbf{8457.40}&\textbf{0.00} & \textbf{7120.96}&0.00 & 7555.12&0.00 & 9168.28&\textbf{0.00} & \textbf{10320.44}\\
+\hline
+NumberPartitioning\_130&520&1.00 & 14621.08&25.00 & 16072.36&1.00 & 14013.32&1.00 & 14543.72&\textbf{1.00} & \textbf{13258.60}\\
+\hline
+NumberPartitioning\_140&560&0.00 & 2432.44&\textbf{0.00} & \textbf{1797.44}&0.00 & 5318.48&0.00 & 3208.72&0.00 & 1569.68\\
+\hline
+NumberPartitioning\_150&600&\textbf{1.00} & \textbf{1671.08}&1.00 & 1589.48&1.00 & 2693.72&\textbf{1.00} & \textbf{2052.44}&1.00 & 2048.76\\
+\hline
+NumberPartitioning\_160&640&0.00 & 3476.16&\textbf{0.00} & \textbf{3131.20}&0.00 & 4669.08&\textbf{0.00} & \textbf{4245.92}&0.00 & 4034.52\\
+\hline
+NumberPartitioning\_170&680&1.00 & 10426.76&1.00 & 9144.52&9.00 & 11383.40&\textbf{1.00} & \textbf{10645.88}&\textbf{1.00} & \textbf{14475.16}\\
+\hline
+NumberPartitioning\_180&720&\textbf{0.00} & \textbf{1336.96}&0.00 & 1403.56&0.00 & 2962.32&0.00 & 1968.80&\textbf{0.00} & \textbf{2420.44}\\
+\hline
+NumberPartitioning\_190&760&\textbf{0.00} & \textbf{1720.52}&\textbf{0.00} & \textbf{1571.64}&\textbf{0.00} & \textbf{2534.76}&0.00 & 3151.08&0.00 & 1861.00\\
+\hline
+NumberPartitioning\_200&800&1.00 & 1651.80&\textbf{1.00} & \textbf{1964.92}&1.00 & 2352.76&1.00 & 2183.48&1.00 & 2260.52\\
+\hline
+NumberPartitioning\_210&840&\textbf{0.00} & \textbf{4639.72}&4.00 & 4559.36&\textbf{0.00} & \textbf{6221.80}&4.00 & 6675.00&\textbf{0.00} & \textbf{5007.00}\\
+\hline
+NumberPartitioning\_220&880&0.00 & 3057.40&0.00 & 4229.92&0.00 & 4257.44&\textbf{0.00} & \textbf{3259.92}&0.00 & 3616.68\\
+\hline
+NumberPartitioning\_230&920&0.00 & 881.00&0.00 & 1343.40&0.00 & 3231.20&\textbf{0.00} & \textbf{1779.48}&0.00 & 4553.88\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

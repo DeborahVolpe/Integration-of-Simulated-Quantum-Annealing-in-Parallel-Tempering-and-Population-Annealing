@@ -1,0 +1,60 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+NumberPartitioning\_10&10&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+NumberPartitioning\_20&20&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+NumberPartitioning\_30&30&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+NumberPartitioning\_40&40&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+NumberPartitioning\_50&50&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_60&60&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_70&70&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_80&80&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_90&90&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_100&100&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_110&110&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_120&120&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_130&130&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_140&140&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_150&150&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_160&160&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_170&170&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_180&180&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_190&190&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_200&200&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_210&210&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_220&220&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+NumberPartitioning\_230&230&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

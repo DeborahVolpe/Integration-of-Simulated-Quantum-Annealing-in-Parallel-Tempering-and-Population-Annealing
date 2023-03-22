@@ -1,0 +1,60 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & $p_{\textrm{cons}}$[\%] & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} & $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} &  $p_{\textrm{range}}$[\%] & \textbf{TTS} \\
+\noalign{\hrule height 1.5pt}
+NumberPartitioning\_10 &0.10&\textbf{71.00} & \textbf{37.20}&69.00 & 39.32&69.00 & 39.32&66.00 & 42.69&68.00 & 40.42\\
+\hline
+NumberPartitioning\_20 &20.00&\textbf{1.00} & \textbf{9164.21}&0.00 & 92057.34&0.00 & 92057.34&0.00 & 92057.34&0.00 & 92057.34\\
+\hline
+NumberPartitioning\_30 &20.00&2.00 & 6838.45&0.00 & 138086.02&0.00 & 138086.02&\textbf{4.00} & \textbf{3384.33}&0.00 & 138086.02\\
+\hline
+NumberPartitioning\_40 &20.00&\textbf{1.00} & \textbf{18328.42}&0.00 & 184114.69&0.00 & 184114.69&0.00 & 184114.69&0.00 & 184114.69\\
+\hline
+NumberPartitioning\_50 &20.00&1.00 & 91642.12&1.00 & 91642.12&0.00 & 920573.44&\textbf{3.00} & \textbf{30238.28}&0.00 & 920573.44\\
+\hline
+NumberPartitioning\_60 &20.00&0.00 & 1104688.13&\textbf{2.00} & \textbf{54707.56}&1.00 & 109970.54&0.00 & 1104688.13&0.00 & 1104688.13\\
+\hline
+NumberPartitioning\_70 &20.00&1.00 & 128298.96&\textbf{4.00} & \textbf{31587.08}&1.00 & 128298.96&0.00 & 1288802.82&0.00 & 1288802.82\\
+\hline
+NumberPartitioning\_80 &20.00&1.00 & 146627.38&\textbf{4.00} & \textbf{36099.52}&0.00 & 1472917.51&1.00 & 146627.38&2.00 & 72943.41\\
+\hline
+NumberPartitioning\_90 &20.00&2.00 & 82061.34&1.00 & 164955.81&4.00 & 40611.96&\textbf{5.00} & \textbf{32321.21}&0.00 & 1657032.20\\
+\hline
+NumberPartitioning\_100 &20.00&\textbf{1.00} & \textbf{183284.23}&0.00 & 1841146.89&0.00 & 1841146.89&0.00 & 1841146.89&0.00 & 1841146.89\\
+\hline
+NumberPartitioning\_110 &0.10&\textbf{6.00} & \textbf{32747.66}&1.00 & 201612.65&4.00 & 49636.84&4.00 & 49636.84&2.00 & 100297.20\\
+\hline
+NumberPartitioning\_120 &0.10&\textbf{2.00} & \textbf{109415.12}&\textbf{2.00} & \textbf{109415.12}&1.00 & 219941.08&1.00 & 219941.08&\textbf{2.00} & \textbf{109415.12}\\
+\hline
+NumberPartitioning\_130 &20.00&3.00 & 78619.53&0.00 & 2393490.95&1.00 & 238269.50&2.00 & 118533.05&\textbf{7.00} & \textbf{32998.01}\\
+\hline
+NumberPartitioning\_140 &0.10&2.00 & 127650.98&\textbf{5.00} & \textbf{50277.44}&3.00 & 84667.18&1.00 & 256597.92&1.00 & 256597.92\\
+\hline
+NumberPartitioning\_150 &0.10&\textbf{6.00} & \textbf{44655.90}&5.00 & 53868.68&4.00 & 67686.60&\textbf{6.00} & \textbf{44655.90}&5.00 & 53868.68\\
+\hline
+NumberPartitioning\_160 &0.10&3.00 & 96762.50&\textbf{4.00} & \textbf{72199.04}&1.00 & 293254.77&\textbf{4.00} & \textbf{72199.04}&2.00 & 145886.83\\
+\hline
+NumberPartitioning\_170 &20.00&1.00 & 311583.19&2.00 & 155004.76&0.00 & 3129949.71&\textbf{3.00} & \textbf{102810.15}&\textbf{3.00} & \textbf{102810.15}\\
+\hline
+NumberPartitioning\_180 &0.10&\textbf{5.00} & \textbf{64642.42}&1.00 & 329911.62&2.00 & 164122.68&4.00 & 81223.92&\textbf{5.00} & \textbf{64642.42}\\
+\hline
+NumberPartitioning\_190 &0.10&\textbf{3.00} & \textbf{114905.46}&\textbf{3.00} & \textbf{114905.46}&\textbf{3.00} & \textbf{114905.46}&2.00 & 173240.61&1.00 & 348240.04\\
+\hline
+NumberPartitioning\_200 &0.10&6.00 & 59541.21&\textbf{7.00} & \textbf{50766.17}&4.00 & 90248.80&4.00 & 90248.80&4.00 & 90248.80\\
+\hline
+NumberPartitioning\_210 &20.00&\textbf{1.00} & \textbf{384896.88}&0.00 & 3866408.46&\textbf{1.00} & \textbf{384896.88}&0.00 & 3866408.46&\textbf{1.00} & \textbf{384896.88}\\
+\hline
+NumberPartitioning\_220 &0.10&3.00 & 133048.43&2.00 & 200594.39&1.00 & 403225.31&\textbf{5.00} & \textbf{79007.40}&1.00 & 403225.31\\
+\hline
+NumberPartitioning\_230 &0.10&3.00 & 139096.09&5.00 & 82598.64&2.00 & 209712.32&\textbf{6.00} & \textbf{68472.39}&1.00 & 421553.73\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
