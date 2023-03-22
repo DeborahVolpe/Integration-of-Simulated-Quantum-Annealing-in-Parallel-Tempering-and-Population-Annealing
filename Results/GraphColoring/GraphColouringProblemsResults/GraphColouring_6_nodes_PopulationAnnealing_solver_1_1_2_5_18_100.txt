@@ -1,0 +1,212 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 18
+The considered Annealing Duration 18
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1.  1.  1. -1.  1.  1.  1. -1.  1. -1.  1.  1.  1.  1. -1.  1.  1. -1.]
+The value found 0.0
+The Success probability is 0.56
+The average value is 0.46
+The total execution time is 4.945037126541138
+The average time for execution is 0.04945037126541138
+The average time for all systems update is 0.002667531702253554
+The average time for system update is 0.0005129589504665799
+The average time for replica update is 0.0002557540602154202
+The average time for spin update is 1.3756780712692826e-05
+The list of values found 
+
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+2.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+2.0
+0.0
+0.0
+0.0
+0.0
+
+
+
+The list of values first execution 
+
+4.7
+8.8
+7.0
+7.0
+1.5
+4.5
+4.5
+3.0
+5.5
+4.5
+7.0
+2.0
+6.5
+1.0
+4.5
+1.5
+4.0
+3.0
+
+
+
+The list of best values first execution 
+
+2.0
+3.0
+4.0
+6.0
+0.0
+3.0
+3.0
+0.0
+3.0
+3.0
+5.0
+0.0
+5.0
+1.0
+4.0
+1.0
+1.0
+0.0
+
+
+
+The list of values average 
+
+4.597999999999998
+5.793
+4.432
+4.488999999999998
+4.0409999999999995
+3.9809999999999977
+4.220999999999998
+3.9089999999999994
+4.2410000000000005
+3.9209999999999976
+4.069999999999999
+3.9659999999999993
+4.010999999999999
+4.059999999999999
+3.8119999999999976
+4.078999999999999
+3.663
+3.9670000000000005
+
+
+
+The list of best values average 
+
+1.410000000000001
+2.4299999999999997
+2.140000000000001
+2.43
+2.3799999999999994
+2.44
+2.51
+2.5799999999999987
+2.7699999999999987
+2.420000000000001
+2.8099999999999983
+2.6299999999999994
+2.529999999999999
+2.54
+2.5099999999999985
+2.7899999999999987
+2.53
+2.7399999999999993

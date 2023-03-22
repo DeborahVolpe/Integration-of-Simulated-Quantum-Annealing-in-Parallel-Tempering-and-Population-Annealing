@@ -1,0 +1,188 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 12
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1  1  1 -1 -1  1  1  1 -1 -1  1  1]
+The value found 0.0
+The Success probability is 0.97
+The average value is 0.03
+The total execution time is 2.55507230758667
+The average time for execution is 0.0255507230758667
+The average time for all systems update is 0.0020171467463175456
+The average time for system update is 0.00037695956230163576
+The average time for replica update is 0.00018801965316136678
+The average time for spin update is 1.4973860647943286e-05
+The list of values found 
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+
+
+
+The list of values first execution 
+
+2.2
+1.9
+1.9
+1.5
+1.5
+1.5
+1.5
+2.0
+1.0
+1.5
+2.0
+0.5
+
+
+
+The list of best values first execution 
+
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+2.0
+0.0
+
+
+
+The list of values average 
+
+2.3279999999999985
+2.557999999999998
+1.8439999999999988
+2.099
+1.8589999999999987
+1.700999999999999
+1.8799999999999992
+1.7489999999999983
+1.9609999999999992
+1.6009999999999986
+1.9969999999999994
+1.6029999999999984
+
+
+
+The list of best values average 
+
+0.25000000000000006
+0.6700000000000004
+0.6700000000000004
+0.8200000000000005
+0.8200000000000005
+0.7400000000000003
+0.9700000000000006
+0.9000000000000006
+1.0300000000000007
+0.8200000000000004
+1.1700000000000008
+0.8400000000000005

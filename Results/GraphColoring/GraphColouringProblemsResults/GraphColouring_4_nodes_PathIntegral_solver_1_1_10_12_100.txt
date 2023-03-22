@@ -1,0 +1,186 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 12
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 10
+The solution found [-1  1  1 -1  1  1  1 -1  1  1  1 -1]
+The value found 0.0
+The Success probability is 1.0
+The average value is 0.0
+The total execution time is 1.5766370296478271
+The average time for execution is 0.0157660174369812
+The average time for system update is 0.0012395073970158895
+The average time for replica update is 0.00012350398302078246
+The average time for spin update is 9.83971357345581e-06
+The list of values found 
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+
+
+The list of values first execution 
+
+4.2
+7.1
+5.1
+4.3
+4.0
+3.9
+4.1
+2.0
+3.4
+1.9
+2.2
+1.5
+
+
+
+The list of best values first execution 
+
+1.0
+2.0
+1.0
+2.0
+1.0
+1.0
+2.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+
+
+The list of values average 
+
+4.125999999999999
+5.093000000000001
+3.7639999999999993
+4.040999999999999
+3.3829999999999987
+3.2949999999999986
+2.946999999999998
+2.7679999999999976
+2.691999999999999
+2.486999999999999
+2.4179999999999984
+2.297
+
+
+
+The list of best values average 
+
+1.1700000000000008
+1.430000000000001
+1.0800000000000007
+1.0900000000000005
+0.8000000000000005
+0.7100000000000004
+0.5800000000000003
+0.5800000000000004
+0.41000000000000025
+0.3900000000000002
+0.3200000000000001
+0.35000000000000014

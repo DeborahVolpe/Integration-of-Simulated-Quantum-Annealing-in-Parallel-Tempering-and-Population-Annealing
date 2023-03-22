@@ -1,0 +1,179 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin12
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1  1 -1  1  1 -1  1 -1  1 -1  1  1]
+The value found 0.0
+The Success probability is 1.0
+The average value is 0.0
+The total execution time is 2.567004680633545
+The average time for execution is 0.025670046806335448
+The average time for all systems update is 0.002038704554239909
+The average time for system tempering update is 0.00032890909247928194
+The average time for system population update is 1.0137968063354492
+The average time for replica update is 0.00018280253807703654
+The average time for spin update is 1.4645255274242824e-05
+The list of values found 
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+
+
+The list of values first execution 
+
+2.8
+3.3
+1.2
+2.3
+1.8
+1.6
+2.2
+1.4
+2.8
+1.0
+1.9
+2.3
+
+
+
+The list of best values first execution 
+
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+
+
+
+The list of values average 
+
+2.3699999999999983
+2.6819999999999986
+1.7409999999999985
+2.1369999999999982
+1.910999999999998
+1.776999999999999
+1.9789999999999988
+1.7399999999999993
+2.086999999999999
+1.6009999999999986
+2.0499999999999985
+1.8609999999999987
+
+
+
+The list of best values average 
+
+0.210000000000000050.490000000000000270.139999999999999990.27000000000000010.139999999999999990.220000000000000030.190000000000000030.180000000000000020.400000000000000130.0600000000000000050.27000000000000010.20000000000000004

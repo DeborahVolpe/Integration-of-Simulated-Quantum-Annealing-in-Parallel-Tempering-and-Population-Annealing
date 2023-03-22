@@ -1,0 +1,200 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 15
+The considered Annealing Duration 15
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1. -1.  1.  1. -1.  1.  1.  1.  1. -1. -1.  1.  1. -1.  1.]
+The value found 0.0
+The Success probability is 0.9
+The average value is 0.1
+The total execution time is 3.180650472640991
+The average time for execution is 0.03180650472640991
+The average time for all systems update is 0.002025168259938558
+The average time for system update is 0.00038380746841430664
+The average time for replica update is 0.00019128444989522297
+The average time for spin update is 1.2286193635728624e-05
+The list of values found 
+
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+
+
+The list of values first execution 
+
+2.8
+3.8
+2.8
+3.9
+2.9
+3.3
+1.6
+3.3
+4.5
+2.2
+3.1
+1.5
+4.5
+0.5
+5.0
+
+
+
+The list of best values first execution 
+
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+4.0
+0.0
+4.0
+
+
+
+The list of values average 
+
+3.4229999999999996
+4.228999999999998
+2.6649999999999987
+3.228999999999998
+2.7709999999999977
+2.554999999999999
+3.0199999999999974
+2.5229999999999984
+3.164999999999998
+2.429999999999998
+3.001999999999999
+2.6239999999999974
+2.7669999999999995
+2.8129999999999997
+2.6209999999999987
+
+
+
+The list of best values average 
+
+0.7900000000000005
+1.560000000000001
+1.0800000000000007
+1.7900000000000014
+1.3900000000000008
+1.3600000000000008
+1.740000000000001
+1.370000000000001
+1.9900000000000013
+1.520000000000001
+1.9200000000000013
+1.540000000000001
+1.6700000000000013
+1.740000000000001
+1.6200000000000012
