@@ -1,0 +1,204 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 16
+The considered Annealing Duration 16
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1.  1.  1.  1. -1. -1.  1.  1. -1.  1.  1.  1.  1.  1. -1.  1.]
+The value found 0.0
+The Success probability is 0.68
+The average value is 0.32
+The total execution time is 2.5382378101348877
+The average time for execution is 0.025380949974060058
+The average time for all systems update is 0.0015106211602687837
+The average time for system update is 0.00028899940848350523
+The average time for replica update is 0.000144071027636528
+The average time for spin update is 8.640259504318237e-06
+The list of values found 
+
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+
+
+
+The list of values first execution 
+
+65.8
+126.5
+84.9
+59.7
+110.5
+51.7
+45.9
+45.1
+38.8
+16.2
+4.4
+1.0
+1.0
+1.0
+1.0
+1.0
+
+
+
+The list of best values first execution 
+
+24.0
+48.0
+47.0
+33.0
+72.0
+37.0
+25.0
+20.0
+19.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+
+
+
+The list of values average 
+
+72.47800000000001
+123.958
+93.406
+74.15600000000003
+70.50700000000002
+50.179
+52.03899999999999
+40.232
+26.195000000000004
+14.064000000000002
+6.255999999999995
+2.9139999999999953
+1.997999999999998
+1.7029999999999987
+1.4909999999999994
+1.333
+
+
+
+The list of best values average 
+
+27.160000000000004
+48.70999999999998
+49.56000000000001
+49.33
+48.80000000000001
+35.10999999999998
+35.37999999999999
+21.09
+9.689999999999996
+1.7000000000000004
+0.6200000000000003
+0.38000000000000017
+0.3900000000000002
+0.3900000000000002
+0.38000000000000017
+0.3900000000000002

@@ -1,0 +1,178 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin9
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1.  1.  1.  1.  1. -1.  1.  1. -1.]
+The value found 7.0
+The Success probability is 1.0
+The average value is 7.0
+The total execution time is 1.2136728763580322
+The average time for execution is 0.012135014533996583
+The average time for all systems update is 0.0012052281697591146
+The average time for system tempering update is 0.00019137126428109627
+The average time for system population update is 0.3029932975769043
+The average time for replica update is 9.033409754435221e-05
+The average time for spin update is 9.38232445422514e-06
+The list of values found 
+
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+
+
+
+The list of values first execution 
+
+42.3
+39.8
+51.0
+25.3
+29.0
+25.9
+24.6
+20.3
+23.6
+
+
+
+The list of best values first execution 
+
+22.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+
+
+
+The list of values average 
+
+38.49699999999999
+42.71299999999999
+36.52299999999997
+32.041
+26.683000000000007
+25.393000000000004
+23.490000000000006
+22.746
+23.215000000000003
+
+
+
+The list of best values average 
+
+12.770000000000016
+8.20000000000001
+7.550000000000009
+7.850000000000012
+7.100000000000009
+7.45000000000001
+7.200000000000009
+7.000000000000009
+7.1000000000000085

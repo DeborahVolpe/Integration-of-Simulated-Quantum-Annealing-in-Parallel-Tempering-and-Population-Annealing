@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin16
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1.  1.  1.  1.  1.  1.  1.  1.  1. -1. -1.  1.  1. -1.  1.  1.]
+The value found 4.0
+The Success probability is 0.96
+The average value is 4.49
+The total execution time is 2.2985615730285645
+The average time for execution is 0.02297567844390869
+The average time for all systems update is 0.002781042754650116
+The average time for system tempering update is 0.0005328089992205302
+The average time for system population update is 0.7582705020904541
+The average time for replica update is 0.00025430724024772645
+The average time for spin update is 1.5522660687565805e-05
+The list of values found 
+
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+23.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+14.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+14.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+14.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+
+
+
+The list of values first execution 
+
+62.6
+98.3
+53.5
+54.4
+35.3
+45.1
+38.6
+44.3
+
+
+
+The list of best values first execution 
+
+23.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+
+
+
+The list of values average 
+
+65.84
+99.09900000000002
+65.19600000000001
+57.869000000000014
+46.49999999999999
+43.55199999999999
+40.60900000000001
+40.435999999999986
+
+
+
+The list of best values average 
+
+24.489999999999995
+16.22
+10.019999999999992
+6.970000000000001
+5.930000000000002
+4.690000000000003
+4.490000000000003
+4.540000000000003

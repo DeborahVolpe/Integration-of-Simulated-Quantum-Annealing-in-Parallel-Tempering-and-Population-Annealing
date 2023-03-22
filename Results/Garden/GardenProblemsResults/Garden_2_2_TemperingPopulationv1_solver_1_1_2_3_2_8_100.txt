@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin16
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1.  1. -1.  1.  1. -1.  1.  1.  1. -1.  1.  1.  1. -1.  1.  1.]
+The value found 4.0
+The Success probability is 0.98
+The average value is 4.29
+The total execution time is 3.0870649814605713
+The average time for execution is 0.030860638618469237
+The average time for all systems update is 0.0037013468146324157
+The average time for system tempering update is 0.0007137515147527059
+The average time for system population update is 1.0306708812713623
+The average time for replica update is 0.00034263366460800173
+The average time for spin update is 2.0887061953544618e-05
+The list of values found 
+
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+23.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+14.0
+4.0
+4.0
+4.0
+4.0
+4.0
+
+
+
+The list of values first execution 
+
+61.5
+131.7
+75.3
+47.9
+56.0
+60.0
+34.8
+48.4
+
+
+
+The list of best values first execution 
+
+14.0
+14.0
+14.0
+14.0
+14.0
+4.0
+4.0
+4.0
+
+
+
+The list of values average 
+
+66.497
+99.71299999999997
+64.90399999999998
+55.78199999999999
+47.456999999999994
+45.014
+39.62800000000002
+39.34099999999999
+
+
+
+The list of best values average 
+
+25.169999999999977
+15.679999999999994
+8.449999999999998
+6.400000000000002
+5.710000000000003
+4.680000000000002
+4.390000000000002
+4.3400000000000025

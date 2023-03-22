@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin9
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1  1  1 -1 -1 -1  1  1  1]
+The value found 7.0
+The Success probability is 1.0
+The average value is 7.0
+The total execution time is 1.3718903064727783
+The average time for execution is 0.01371748685836792
+The average time for all systems update is 0.0013825058937072753
+The average time for system tempering update is 0.00019200166066487632
+The average time for system population update is 0.4791703224182129
+The average time for replica update is 0.00011006535424126518
+The average time for spin update is 1.1548483813250507e-05
+The list of values found 
+
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+
+
+
+The list of values first execution 
+
+30.8
+46.2
+37.6
+32.3
+25.1
+22.2
+26.7
+20.2
+20.9
+
+
+
+The list of best values first execution 
+
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+7.0
+
+
+
+The list of values average 
+
+38.64199999999999
+43.379000000000005
+35.547999999999995
+32.289999999999985
+27.67799999999999
+24.899
+23.949999999999992
+22.467999999999996
+22.973000000000003
+
+
+
+The list of best values average 
+
+12.1000000000000129.4000000000000137.8000000000000117.5500000000000117.6500000000000117.10000000000000857.1000000000000097.0000000000000097.1000000000000085
