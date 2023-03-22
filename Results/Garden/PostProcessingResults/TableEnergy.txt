@@ -1,0 +1,30 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{  opt} & \textbf{ avg} & \textbf{ opt} & \textbf{avg} & \textbf{ opt} & \textbf{avg} & \textbf{ opt} & \textbf{  avg} & \textbf{ opt} & \textbf{ avg} \\
+\noalign{\hrule height 1.5pt}
+Garden\_1\_2&2&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}\\
+\hline
+Garden\_1\_3&9&\textbf{7.00} & \textbf{7.00}&\textbf{7.00} & \textbf{7.00}&7.00 & 7.10&\textbf{7.00} & \textbf{7.00}&\textbf{7.00} & \textbf{7.00}\\
+\hline
+Garden\_1\_4&16&0.00 & 4.35&0.00 & 0.68&0.00 & 0.32&\textbf{0.00} & \textbf{0.21}&\textbf{0.00} & \textbf{0.21}\\
+\hline
+Garden\_2\_2&8&4.00 & 13.89&4.00 & 6.34&4.00 & 4.70&\textbf{4.00} & \textbf{4.29}&4.00 & 4.49\\
+\hline
+Garden\_2\_3&144&11.00 & 30.76&10.00 & 27.13&10.00 & 22.29&10.00 & 22.45&\textbf{10.00} & \textbf{22.06}\\
+\hline
+Garden\_2\_4&19200&26.00 & 48.52&17.00 & 50.22&\textbf{4.00} & \textbf{20.36}&6.00 & 22.86&6.00 & 23.27\\
+\hline
+Garden\_3\_2&10800&3.00 & 9.24&3.00 & 8.24&\textbf{3.00} & \textbf{3.09}&3.00 & 3.24&3.00 & 3.23\\
+\hline
+Garden\_3\_3&40500&234.00 & 347.99&\textbf{16.00} & \textbf{21.83}&34.00 & 48.50&16.00 & 24.22&16.00 & 24.92\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
