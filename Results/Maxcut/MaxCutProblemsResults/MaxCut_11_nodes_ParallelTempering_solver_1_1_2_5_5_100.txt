@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 11
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1 -1  1 -1  1  1 -1  1 -1  1]
+The value found -185.0
+The Success probability is 0.96
+The average value is -184.65
+The total execution time is 1.8930001258850098
+The average time for execution is 0.018930001258850096
+The average time for all systems update is 0.003219342231750488
+The average time for system update is 0.0005927558898925782
+The average time for replica update is 0.00029553232192993165
+The average time for spin update is 2.5961685180664062e-05
+The list of values found 
+
+-185.0
+-185.0
+-173.0
+-179.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-174.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+
+
+
+The list of values first execution 
+
+-161.6
+-167.9
+-174.5
+-176.5
+-179.8
+
+
+
+The list of best values first execution 
+
+-148.0
+-179.0
+-185.0
+-185.0
+-185.0
+
+
+
+The list of values average 
+
+-157.086
+-165.426
+-170.577
+-172.84899999999996
+-174.47299999999996
+
+
+
+The list of best values average 
+
+-149.32
+-161.92999999999998
+-169.09999999999994
+-171.11999999999992
+-174.0799999999999

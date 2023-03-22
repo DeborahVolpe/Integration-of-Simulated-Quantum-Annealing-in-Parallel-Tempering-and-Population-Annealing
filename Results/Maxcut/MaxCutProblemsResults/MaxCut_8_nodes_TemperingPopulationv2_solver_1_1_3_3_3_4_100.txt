@@ -1,0 +1,158 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin8
+The considered Annealing Duration 4
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [ 1.  1. -1.  1. -1. -1. -1.  1.]
+The value found -106.0
+The Success probability is 1.0
+The average value is -106.0
+The total execution time is 0.7939093112945557
+The average time for execution is 0.007937889099121093
+The average time for all systems update is 0.0018388569355010987
+The average time for system tempering update is 0.0002745525042215983
+The average time for system population update is 0.3058197498321533
+The average time for replica update is 8.780542347166273e-05
+The average time for spin update is 1.0313946339819167e-05
+The list of values found 
+
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+
+
+
+The list of values first execution 
+
+-92.33333333333333
+-98.11111111111111
+-94.94444444444444
+-96.33333333333333
+
+
+
+The list of best values first execution 
+
+-101.0
+-106.0
+-106.0
+-106.0
+
+
+
+The list of values average 
+
+-91.81666666666663
+-97.82000000000001
+-100.50222222222224
+-101.64222222222217
+
+
+
+The list of best values average 
+
+-105.35000000000014
+-105.70000000000013
+-106.00000000000014
+-106.00000000000014

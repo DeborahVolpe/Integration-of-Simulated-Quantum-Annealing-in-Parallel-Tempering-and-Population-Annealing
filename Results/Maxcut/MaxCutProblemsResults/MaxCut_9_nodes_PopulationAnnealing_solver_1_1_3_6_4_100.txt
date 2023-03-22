@@ -1,0 +1,156 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 9
+The considered Annealing Duration 4
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [-1 -1 -1  1 -1  1  1  1 -1]
+The value found -132.0
+The Success probability is 1.0
+The average value is -132.0
+The total execution time is 0.8897013664245605
+The average time for execution is 0.008897013664245605
+The average time for all systems update is 0.0020673149824142457
+The average time for system update is 0.0003272657593091329
+The average time for replica update is 0.00010856578747431437
+The average time for spin update is 1.15340984897849e-05
+The list of values found 
+
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+
+
+
+The list of values first execution 
+
+-112.33333333333333
+-120.94444444444444
+-126.22222222222223
+-130.94444444444446
+
+
+
+The list of best values first execution 
+
+-132.0
+-132.0
+-128.0
+-132.0
+
+
+
+The list of values average 
+
+-114.38111111111111
+-122.21444444444445
+-127.60333333333334
+-129.6966666666667
+
+
+
+The list of best values average 
+
+-130.97999999999973
+-131.87999999999968
+-131.95999999999967
+-131.99999999999966

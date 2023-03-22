@@ -1,0 +1,158 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 11
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 18
+The solution found [ 1 -1  1 -1  1 -1 -1  1 -1  1 -1]
+The value found -185.0
+The Success probability is 0.99
+The average value is -184.94
+The total execution time is 1.1036148071289062
+The average time for execution is 0.011036148071289062
+The average time for system update is 0.0020527358055114748
+The average time for replica update is 0.00011365138159857856
+The average time for spin update is 9.886257576219963e-06
+The list of values found 
+
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+
+
+
+The list of values first execution 
+
+-21.666666666666668
+-35.72222222222222
+-39.111111111111114
+-40.72222222222222
+-42.0
+
+
+
+The list of best values first execution 
+
+-36.0
+-47.0
+-47.0
+-47.0
+-47.0
+
+
+
+The list of values average 
+
+-21.220555555555563
+-30.11555555555557
+-36.20444444444445
+-40.004444444444445
+-41.966666666666676
+
+
+
+The list of best values average 
+
+-42.099999999999966
+-45.84999999999994
+-46.71999999999994
+-46.83999999999994
+-46.829999999999934

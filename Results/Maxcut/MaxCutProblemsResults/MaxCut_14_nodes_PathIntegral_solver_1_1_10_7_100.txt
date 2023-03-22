@@ -1,0 +1,166 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 14
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 10
+The solution found [ 1 -1  1  1  1 -1 -1 -1 -1 -1  1  1 -1  1]
+The value found -289.0
+The Success probability is 0.85
+The average value is -288.13
+The total execution time is 1.388282299041748
+The average time for execution is 0.01388282299041748
+The average time for system update is 0.001871912819998605
+The average time for replica update is 0.00018699428013392857
+The average time for spin update is 1.2804783120447275e-05
+The list of values found 
+
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-281.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-283.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-278.0
+-281.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+-283.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+
+
+
+The list of values first execution 
+
+-27.2
+-40.0
+-45.8
+-55.4
+-59.7
+-62.7
+-63.5
+
+
+
+The list of best values first execution 
+
+-50.0
+-57.0
+-57.0
+-68.0
+-68.0
+-68.0
+-68.0
+
+
+
+The list of values average 
+
+-27.209999999999994
+-41.52099999999999
+-51.44699999999999
+-57.10900000000001
+-60.029
+-61.907999999999994
+-62.940000000000005
+
+
+
+The list of best values average 
+
+-53.24000000000003
+-60.69
+-64.43999999999998
+-66.24
+-66.71999999999998
+-66.93999999999998
+-66.97999999999999

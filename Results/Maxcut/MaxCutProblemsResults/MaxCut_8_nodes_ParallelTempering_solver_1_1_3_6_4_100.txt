@@ -1,0 +1,156 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 8
+The considered Annealing Duration 4
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [-1 -1  1 -1  1  1  1 -1]
+The value found -106.0
+The Success probability is 1.0
+The average value is -106.0
+The total execution time is 0.8600366115570068
+The average time for execution is 0.008600366115570069
+The average time for all systems update is 0.0018050438165664673
+The average time for system update is 0.00026813159386316937
+The average time for replica update is 8.896072705586751e-05
+The average time for spin update is 1.0486841201782226e-05
+The list of values found 
+
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+-106.0
+
+
+
+The list of values first execution 
+
+-91.66666666666667
+-97.11111111111111
+-100.77777777777777
+-102.61111111111111
+
+
+
+The list of best values first execution 
+
+-88.0
+-101.0
+-101.0
+-101.0
+
+
+
+The list of values average 
+
+-92.53888888888886
+-98.0294444444445
+-100.35388888888887
+-101.67222222222222
+
+
+
+The list of best values average 
+
+-87.80000000000003
+-96.59
+-99.50000000000009
+-101.99000000000008

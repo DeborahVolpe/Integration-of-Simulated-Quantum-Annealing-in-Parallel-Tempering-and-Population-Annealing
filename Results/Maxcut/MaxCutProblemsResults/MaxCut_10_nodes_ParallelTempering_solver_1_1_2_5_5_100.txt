@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 10
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1 -1  1 -1  1  1 -1  1 -1  1]
+The value found -160.0
+The Success probability is 0.93
+The average value is -159.74
+The total execution time is 1.3073348999023438
+The average time for execution is 0.013073348999023437
+The average time for all systems update is 0.0021352577209472656
+The average time for system update is 0.0003960110664367676
+The average time for replica update is 0.000197034215927124
+The average time for spin update is 1.8788514137268065e-05
+The list of values found 
+
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-152.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+
+
+
+The list of values first execution 
+
+-125.5
+-138.5
+-147.0
+-148.5
+-144.9
+
+
+
+The list of best values first execution 
+
+-118.0
+-148.0
+-145.0
+-145.0
+-145.0
+
+
+
+The list of values average 
+
+-134.81600000000003
+-142.917
+-146.57000000000002
+-148.66699999999997
+-149.72599999999997
+
+
+
+The list of best values average 
+
+-126.47000000000004
+-141.77999999999992
+-146.65999999999997
+-149.4599999999999
+-150.12999999999982

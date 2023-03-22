@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin14
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1. -1.  1.  1.  1. -1. -1. -1. -1. -1.  1.  1. -1.  1.]
+The value found -289.0
+The Success probability is 0.68
+The average value is -287.49
+The total execution time is 2.0166447162628174
+The average time for execution is 0.020156447887420655
+The average time for all systems update is 0.002731881822858538
+The average time for system tempering update is 0.000510481766292027
+The average time for system population update is 0.64569091796875
+The average time for replica update is 0.0002448444025857108
+The average time for spin update is 1.69252838407244e-05
+The list of values found 
+
+-289.0
+-287.0
+-287.0
+-287.0
+-289.0
+-289.0
+-283.0
+-287.0
+-283.0
+-289.0
+-289.0
+-283.0
+-287.0
+-287.0
+-287.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-278.0
+-289.0
+-289.0
+-281.0
+-289.0
+-289.0
+-278.0
+-289.0
+-289.0
+-289.0
+-285.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-283.0
+-289.0
+-287.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-287.0
+-289.0
+-278.0
+-289.0
+-287.0
+-283.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-287.0
+-289.0
+-289.0
+-289.0
+
+
+
+The list of values first execution 
+
+-249.5
+-263.2
+-266.4
+-274.2
+-282.8
+-280.5
+-284.7
+
+
+
+The list of best values first execution 
+
+-285.0
+-285.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+
+
+
+The list of values average 
+
+-245.62600000000006
+-262.30499999999995
+-268.44200000000006
+-272.97
+-275.679
+-277.861
+-279.02600000000007
+
+
+
+The list of best values average 
+
+-275.2899999999999
+-281.75999999999993
+-284.71999999999986
+-285.8699999999998
+-286.70999999999975
+-286.77999999999963
+-287.17999999999967

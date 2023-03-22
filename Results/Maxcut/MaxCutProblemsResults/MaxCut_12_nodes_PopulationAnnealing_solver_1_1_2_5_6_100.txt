@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 12
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1.  1. -1.  1.  1. -1. -1. -1. -1. -1. -1.  1.]
+The value found -228.0
+The Success probability is 0.9
+The average value is -226.29
+The total execution time is 1.3101575374603271
+The average time for execution is 0.013101575374603271
+The average time for all systems update is 0.002051048676172892
+The average time for system update is 0.00039136799176534015
+The average time for replica update is 0.00019495709737141927
+The average time for spin update is 1.5679902500576442e-05
+The list of values found 
+
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-206.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-216.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-206.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-218.0
+-228.0
+-228.0
+-216.0
+-214.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-208.0
+-228.0
+-228.0
+-228.0
+-228.0
+-216.0
+-206.0
+-203.0
+-228.0
+
+
+
+The list of values first execution 
+
+-181.8
+-200.3
+-221.2
+-228.0
+-228.0
+-228.0
+
+
+
+The list of best values first execution 
+
+-206.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+
+
+
+The list of values average 
+
+-185.99700000000007
+-204.57599999999994
+-216.05
+-220.56700000000006
+-223.61900000000006
+-225.11000000000007
+
+
+
+The list of best values average 
+
+-211.55000000000007
+-217.44000000000003
+-220.99000000000007
+-223.1000000000001
+-224.61000000000007
+-225.44000000000008

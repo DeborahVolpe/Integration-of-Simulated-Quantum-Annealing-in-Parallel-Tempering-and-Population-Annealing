@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin4
+The considered Annealing Duration 4
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [[ 1  1  1 -1]
+ [ 1 -1  1 -1]
+ [ 1  1 -1  1]]
+The value found -22.0
+The Success probability is 1.0
+The average value is -22.0
+The total execution time is 0.5991966724395752
+The average time for execution is 0.005991966724395752
+The average time for all systems update is 0.001259581446647644
+The average time for system tempering update is 0.00016862491766611736
+The average time for system population update is 0.1941368579864502
+The average time for replica update is 5.4166581895616316e-05
+The average time for spin update is 1.2627045313517252e-05
+The list of values found 
+
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+
+
+
+The list of values first execution 
+
+-17.77777777777778
+-20.27777777777778
+-20.833333333333332
+-20.555555555555557
+
+
+
+The list of best values first execution 
+
+-22.0
+-22.0
+-22.0
+-22.0
+
+
+
+The list of values average 
+
+-17.870555555555555
+-19.932222222222222
+-20.684444444444445
+-20.90055555555555
+
+
+
+The list of best values average 
+
+-21.969999999999988
+-21.99999999999999
+-21.99999999999999
+-21.99999999999999

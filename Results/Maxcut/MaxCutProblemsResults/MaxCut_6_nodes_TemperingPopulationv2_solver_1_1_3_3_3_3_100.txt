@@ -1,0 +1,156 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin6
+The considered Annealing Duration 3
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [[-1 -1  1  1 -1  1]
+ [-1 -1  1 -1  1 -1]
+ [-1 -1  1 -1  1  1]]
+The value found -53.0
+The Success probability is 1.0
+The average value is -53.0
+The total execution time is 0.6189432144165039
+The average time for execution is 0.006189432144165039
+The average time for all systems update is 0.001774764060974121
+The average time for system tempering update is 0.0002711865637037489
+The average time for system population update is 0.20151066780090332
+The average time for replica update is 8.186530183862757e-05
+The average time for spin update is 1.2804402245415582e-05
+The list of values found 
+
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+
+
+
+The list of values first execution 
+
+-49.111111111111114
+-49.72222222222222
+-51.388888888888886
+
+
+
+The list of best values first execution 
+
+-53.0
+-53.0
+-53.0
+
+
+
+The list of values average 
+
+-48.71555555555556
+-50.44833333333333
+-51.34166666666667
+
+
+
+The list of best values average 
+
+-52.99000000000007
+-52.99000000000007
+-53.00000000000007

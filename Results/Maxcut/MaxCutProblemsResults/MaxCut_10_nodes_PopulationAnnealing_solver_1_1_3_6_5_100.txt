@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 10
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [ 1  1 -1  1 -1 -1  1 -1  1 -1]
+The value found -160.0
+The Success probability is 0.99
+The average value is -159.97
+The total execution time is 1.4336223602294922
+The average time for execution is 0.014336223602294923
+The average time for all systems update is 0.0026908335685729983
+The average time for system update is 0.00042754236857096356
+The average time for replica update is 0.0001419881714714898
+The average time for spin update is 1.366181108686659e-05
+The list of values found 
+
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+
+
+
+The list of values first execution 
+
+-133.5
+-147.11111111111111
+-154.33333333333334
+-157.55555555555554
+-159.16666666666666
+
+
+
+The list of best values first execution 
+
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+
+
+
+The list of values average 
+
+-137.03666666666666
+-145.20944444444442
+-151.82111111111118
+-155.5194444444445
+-157.00833333333338
+
+
+
+The list of best values average 
+
+-156.5699999999998
+-159.4599999999997
+-159.6399999999997
+-159.9399999999997
+-159.9399999999997

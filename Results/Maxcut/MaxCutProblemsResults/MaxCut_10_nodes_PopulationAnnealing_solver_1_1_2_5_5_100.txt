@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 10
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1. -1.  1. -1.  1.  1. -1.  1. -1.  1.]
+The value found -160.0
+The Success probability is 0.68
+The average value is -157.97
+The total execution time is 0.711132287979126
+The average time for execution is 0.00711132287979126
+The average time for all systems update is 0.0013274312019348144
+The average time for system update is 0.0002521310806274414
+The average time for replica update is 0.00012543344497680664
+The average time for spin update is 1.1863956451416016e-05
+The list of values found 
+
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-152.0
+-160.0
+-148.0
+-160.0
+-160.0
+-157.0
+-149.0
+-160.0
+-157.0
+-160.0
+-149.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-149.0
+-157.0
+-149.0
+-160.0
+-160.0
+-157.0
+-160.0
+-157.0
+-160.0
+-160.0
+-150.0
+-160.0
+-160.0
+-160.0
+-157.0
+-148.0
+-160.0
+-160.0
+-160.0
+-157.0
+-157.0
+-160.0
+-160.0
+-160.0
+-157.0
+-157.0
+-147.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-157.0
+-157.0
+-157.0
+-148.0
+-160.0
+-160.0
+-160.0
+-147.0
+-157.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-149.0
+-160.0
+-160.0
+-160.0
+-157.0
+-160.0
+-160.0
+-160.0
+-160.0
+-149.0
+-160.0
+-160.0
+
+
+
+The list of values first execution 
+
+-121.8
+-151.5
+-150.5
+-160.0
+-160.0
+
+
+
+The list of best values first execution 
+
+-149.0
+-157.0
+-154.0
+-160.0
+-160.0
+
+
+
+The list of values average 
+
+-132.148
+-145.733
+-151.67799999999986
+-154.08699999999985
+-155.8709999999998
+
+
+
+The list of best values average 
+
+-151.91999999999985
+-153.95999999999987
+-155.5999999999998
+-156.01999999999978
+-156.76999999999973

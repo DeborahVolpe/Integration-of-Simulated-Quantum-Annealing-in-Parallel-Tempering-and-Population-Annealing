@@ -1,0 +1,191 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin25
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1. -1.  1. -1. -1. -1.  1.  1.  1. -1.  1. -1.  1. -1. -1.  1. -1.  1.
+  1. -1.  1.  1. -1. -1. -1.]
+The value found -953.0
+The Success probability is 0.86
+The average value is -951.23
+The total execution time is 5.0233542919158936
+The average time for execution is 0.050233542919158936
+The average time for all systems update is 0.004100878437360128
+The average time for system tempering update is 0.0008029049634933472
+The average time for system population update is 1.7919631004333496
+The average time for replica update is 0.00038964813947677614
+The average time for spin update is 1.5229972203572592e-05
+The list of values found 
+
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-947.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-926.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+-953.0
+
+
+
+The list of values first execution 
+
+-836.6
+-882.2
+-891.9
+-922.5
+-920.8
+-922.0
+-920.9
+-922.8
+-945.6
+-945.8
+-945.8
+-945.8
+
+
+
+The list of best values first execution 
+
+-903.0
+-941.0
+-941.0
+-941.0
+-941.0
+-941.0
+-941.0
+-941.0
+-953.0
+-953.0
+-953.0
+-953.0
+
+
+
+The list of values average 
+
+-827.241
+-865.4489999999996
+-884.8780000000002
+-900.7669999999999
+-911.9480000000002
+-920.5269999999998
+-926.53
+-929.6230000000003
+-931.6320000000001
+-932.6550000000002
+-933.6329999999998
+-934.676
+
+
+
+The list of best values average 
+
+-889.5600000000002
+-917.1599999999997
+-931.5199999999993
+-937.9699999999991
+-943.869999999999
+-947.8599999999985
+-948.8799999999984
+-948.8699999999983
+-949.7199999999982
+-949.8299999999982
+-950.1199999999982
+-950.6899999999981

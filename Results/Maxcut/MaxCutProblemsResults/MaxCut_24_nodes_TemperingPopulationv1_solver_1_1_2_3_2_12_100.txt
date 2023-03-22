@@ -1,0 +1,191 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin24
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1. -1. -1.  1.  1. -1.  1. -1. -1.  1.  1.  1. -1. -1. -1. -1. -1.  1.
+  1.  1. -1.  1.  1. -1.]
+The value found -821.0
+The Success probability is 0.42
+The average value is -818.16
+The total execution time is 5.421850681304932
+The average time for execution is 0.054218506813049315
+The average time for all systems update is 0.0044213064511617025
+The average time for system tempering update is 0.0008606666326522827
+The average time for system population update is 1.9432153701782227
+The average time for replica update is 0.0004194336732228597
+The average time for spin update is 1.706060187684165e-05
+The list of values found 
+
+-818.0
+-821.0
+-821.0
+-821.0
+-818.0
+-818.0
+-818.0
+-818.0
+-814.0
+-818.0
+-811.0
+-812.0
+-812.0
+-821.0
+-821.0
+-821.0
+-821.0
+-821.0
+-819.0
+-818.0
+-818.0
+-818.0
+-819.0
+-821.0
+-818.0
+-821.0
+-821.0
+-819.0
+-812.0
+-818.0
+-821.0
+-821.0
+-821.0
+-821.0
+-821.0
+-821.0
+-819.0
+-821.0
+-818.0
+-810.0
+-818.0
+-818.0
+-818.0
+-821.0
+-819.0
+-818.0
+-812.0
+-803.0
+-809.0
+-821.0
+-818.0
+-818.0
+-819.0
+-818.0
+-819.0
+-821.0
+-821.0
+-821.0
+-818.0
+-818.0
+-821.0
+-821.0
+-821.0
+-812.0
+-821.0
+-811.0
+-821.0
+-818.0
+-810.0
+-818.0
+-819.0
+-821.0
+-818.0
+-812.0
+-821.0
+-821.0
+-818.0
+-821.0
+-818.0
+-811.0
+-811.0
+-821.0
+-819.0
+-821.0
+-821.0
+-818.0
+-813.0
+-821.0
+-818.0
+-819.0
+-821.0
+-821.0
+-821.0
+-818.0
+-821.0
+-818.0
+-821.0
+-821.0
+-811.0
+-818.0
+
+
+
+The list of values first execution 
+
+-725.6
+-769.3
+-795.5
+-799.3
+-800.8
+-798.8
+-792.3
+-790.7
+-784.7
+-799.0
+-802.7
+-806.5
+
+
+
+The list of best values first execution 
+
+-786.0
+-798.0
+-812.0
+-811.0
+-814.0
+-811.0
+-817.0
+-818.0
+-818.0
+-818.0
+-818.0
+-818.0
+
+
+
+The list of values average 
+
+-730.4639999999998
+-764.4
+-776.2759999999998
+-785.5769999999998
+-791.6380000000003
+-795.7759999999998
+-799.9149999999998
+-802.634
+-804.8150000000002
+-805.8480000000003
+-806.673
+-807.4400000000003
+
+
+
+The list of best values average 
+
+-783.4400000000003
+-802.3900000000001
+-809.04
+-812.7899999999998
+-814.5600000000003
+-815.3300000000003
+-816.0800000000002
+-816.6600000000003
+-817.0400000000002
+-816.8600000000002
+-817.1100000000004
+-817.2200000000003

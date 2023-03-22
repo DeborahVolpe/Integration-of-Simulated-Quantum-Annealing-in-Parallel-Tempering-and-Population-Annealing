@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 4
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [[-1  1 -1  1]
+ [-1  1  1  1]
+ [ 1  1  1 -1]]
+The value found -22.0
+The Success probability is 1.0
+The average value is -22.0
+The total execution time is 0.7737877368927002
+The average time for execution is 0.007737877368927002
+The average time for all systems update is 0.0008693313598632812
+The average time for system update is 0.0001294719676176707
+The average time for replica update is 4.2634722259309556e-05
+The average time for spin update is 9.834220012029013e-06
+The list of values found 
+
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+
+
+
+The list of values first execution 
+
+-17.61111111111111
+-19.166666666666668
+-18.944444444444443
+-20.0
+-20.77777777777778
+-21.055555555555557
+-19.77777777777778
+-21.5
+
+
+
+The list of best values first execution 
+
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+-22.0
+
+
+
+The list of values average 
+
+-15.720555555555553
+-17.535555555555554
+-19.022777777777783
+-20.13666666666667
+-20.75555555555555
+-21.111111111111107
+-21.448333333333323
+-21.660555555555565
+
+
+
+The list of best values average 
+
+-21.939999999999987
+-21.93999999999999
+-21.99999999999999
+-21.99999999999999
+-21.99999999999999
+-21.99999999999999
+-21.99999999999999
+-21.99999999999999

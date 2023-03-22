@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 11
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1. -1.  1. -1.  1. -1. -1.  1. -1.  1. -1.]
+The value found -185.0
+The Success probability is 0.64
+The average value is -182.04
+The total execution time is 1.0950047969818115
+The average time for execution is 0.010949752330780028
+The average time for all systems update is 0.002019484519958496
+The average time for system update is 0.0003848285675048828
+The average time for replica update is 0.00018980798721313476
+The average time for spin update is 1.658499457619407e-05
+The list of values found 
+
+-179.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-173.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-173.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-179.0
+-177.0
+-185.0
+-185.0
+-172.0
+-177.0
+-174.0
+-185.0
+-185.0
+-185.0
+-185.0
+-185.0
+-180.0
+-185.0
+-185.0
+-179.0
+-180.0
+-185.0
+-177.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-180.0
+-177.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-180.0
+-185.0
+-174.0
+-176.0
+-173.0
+-185.0
+-185.0
+-173.0
+-185.0
+-185.0
+-179.0
+-172.0
+-185.0
+-185.0
+-179.0
+-185.0
+-174.0
+-185.0
+-166.0
+-185.0
+-176.0
+-172.0
+-180.0
+-185.0
+-180.0
+-185.0
+-185.0
+-185.0
+-185.0
+-179.0
+-185.0
+-185.0
+-185.0
+-180.0
+-179.0
+-185.0
+-185.0
+-185.0
+
+
+
+The list of values first execution 
+
+-157.3
+-160.5
+-155.8
+-165.8
+-176.3
+
+
+
+The list of best values first execution 
+
+-176.0
+-177.0
+-177.0
+-177.0
+-179.0
+
+
+
+The list of values average 
+
+-154.493
+-169.04100000000005
+-175.313
+-178.73099999999988
+-179.69899999999993
+
+
+
+The list of best values average 
+
+-175.72000000000003
+-178.2499999999999
+-179.3599999999999
+-180.34999999999988
+-180.52999999999986

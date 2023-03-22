@@ -1,0 +1,178 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin9
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [-1 -1 -1  1 -1  1  1  1 -1]
+The value found -132.0
+The Success probability is 1.0
+The average value is -132.0
+The total execution time is 2.82584285736084
+The average time for execution is 0.0282584285736084
+The average time for all systems update is 0.0029777752028571237
+The average time for system tempering update is 0.00048386450167055484
+The average time for system population update is 1.0861811637878418
+The average time for replica update is 0.00014718329464947735
+The average time for spin update is 1.5611053330744572e-05
+The list of values found 
+
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+
+
+
+The list of values first execution 
+
+-112.22222222222223
+-115.72222222222223
+-124.44444444444444
+-124.61111111111111
+-123.72222222222223
+-127.55555555555556
+-129.0
+-129.27777777777777
+-126.05555555555556
+
+
+
+The list of best values first execution 
+
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+
+
+
+The list of values average 
+
+-111.68222222222224
+-117.49000000000002
+-121.36944444444448
+-123.43388888888893
+-124.77388888888889
+-125.10222222222222
+-125.94388888888895
+-125.86555555555556
+-126.10111111111112
+
+
+
+The list of best values average 
+
+-130.56999999999977
+-131.7499999999997
+-131.86999999999966
+-131.95999999999967
+-131.99999999999966
+-131.91999999999967
+-131.99999999999966
+-131.99999999999966
+-131.95999999999967

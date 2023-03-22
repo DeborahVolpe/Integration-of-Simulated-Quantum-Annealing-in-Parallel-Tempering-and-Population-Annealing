@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 12
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1  1 -1  1  1 -1 -1 -1 -1 -1 -1  1]
+The value found -228.0
+The Success probability is 0.99
+The average value is -227.78
+The total execution time is 1.5929267406463623
+The average time for execution is 0.015929267406463624
+The average time for all systems update is 0.0023359779516855875
+The average time for system update is 0.00043604516983032225
+The average time for replica update is 0.0002166641155878703
+The average time for spin update is 1.75812476211124e-05
+The list of values found 
+
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-206.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+
+
+
+The list of values first execution 
+
+-185.6
+-207.0
+-207.8
+-212.2
+-209.7
+-213.2
+
+
+
+The list of best values first execution 
+
+-177.0
+-203.0
+-203.0
+-203.0
+-203.0
+-203.0
+
+
+
+The list of values average 
+
+-189.72899999999993
+-202.79199999999992
+-210.109
+-214.615
+-217.11799999999994
+-218.846
+
+
+
+The list of best values average 
+
+-179.10999999999993
+-198.51999999999998
+-207.7600000000001
+-213.50000000000009
+-214.86000000000013
+-216.08000000000013

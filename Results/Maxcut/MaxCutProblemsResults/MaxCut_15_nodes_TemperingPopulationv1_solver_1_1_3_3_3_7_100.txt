@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin15
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [-1. -1.  1.  1. -1.  1.  1. -1.  1.  1. -1. -1. -1.  1. -1.]
+The value found -340.0
+The Success probability is 1.0
+The average value is -340.0
+The total execution time is 3.5838003158569336
+The average time for execution is 0.03583800315856934
+The average time for all systems update is 0.004975201061793736
+The average time for system tempering update is 0.0008269229389372327
+The average time for system population update is 1.5161428451538086
+The average time for replica update is 0.00025775188491457984
+The average time for spin update is 1.6628719511486237e-05
+The list of values found 
+
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+
+
+
+The list of values first execution 
+
+-295.6111111111111
+-320.3333333333333
+-320.72222222222223
+-332.1111111111111
+-333.3333333333333
+-331.94444444444446
+-332.77777777777777
+
+
+
+The list of best values first execution 
+
+-336.0
+-339.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+
+
+
+The list of values average 
+
+-302.7388888888889
+-316.7588888888888
+-324.31444444444446
+-328.8477777777777
+-330.7388888888889
+-331.49499999999983
+-332.20833333333326
+
+
+
+The list of best values average 
+
+-333.1499999999999
+-338.7799999999998
+-339.58999999999975
+-339.97999999999973
+-339.91999999999973
+-339.95999999999975
+-339.96999999999974

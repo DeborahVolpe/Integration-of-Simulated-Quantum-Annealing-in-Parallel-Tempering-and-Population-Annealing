@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin14
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [-1.  1. -1. -1. -1.  1.  1.  1.  1.  1. -1. -1.  1. -1.]
+The value found -289.0
+The Success probability is 1.0
+The average value is -289.0
+The total execution time is 3.5620176792144775
+The average time for execution is 0.035610182285308836
+The average time for all systems update is 0.004926871231624059
+The average time for system tempering update is 0.0008121706190563384
+The average time for system population update is 1.4891045093536377
+The average time for replica update is 0.0002528478607298836
+The average time for spin update is 1.7448773189466828e-05
+The list of values found 
+
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+
+
+
+The list of values first execution 
+
+-249.38888888888889
+-266.6111111111111
+-277.8888888888889
+-274.3888888888889
+-276.6666666666667
+-275.8888888888889
+-278.94444444444446
+
+
+
+The list of best values first execution 
+
+-277.0
+-287.0
+-289.0
+-289.0
+-289.0
+-289.0
+-289.0
+
+
+
+The list of values average 
+
+-252.07
+-264.6955555555556
+-272.4855555555555
+-276.5566666666667
+-278.36722222222227
+-279.7233333333333
+-280.24277777777786
+
+
+
+The list of best values average 
+
+-279.64000000000004
+-285.55999999999983
+-287.9699999999997
+-288.6799999999994
+-288.89999999999935
+-288.9599999999993
+-288.9599999999993

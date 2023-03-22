@@ -1,0 +1,166 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 7
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 18
+The solution found [-1  1 -1  1  1  1 -1]
+The value found -76.0
+The Success probability is 1.0
+The average value is -76.0
+The total execution time is 0.8761415481567383
+The average time for execution is 0.008751420974731446
+The average time for system update is 0.0011182383128574916
+The average time for replica update is 6.18361859094529e-05
+The average time for spin update is 8.367291924093856e-06
+The list of values found 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values first execution 
+
+-16.77777777777778
+-22.77777777777778
+-27.5
+-29.333333333333332
+-29.444444444444443
+-29.38888888888889
+-30.5
+
+
+
+The list of best values first execution 
+
+-30.5
+-30.5
+-30.5
+-30.5
+-30.5
+-30.5
+-30.5
+
+
+
+The list of values average 
+
+-11.652777777777777
+-18.926666666666662
+-25.59944444444445
+-29.22888888888888
+-30.12666666666665
+-30.35277777777776
+-30.443888888888868
+
+
+
+The list of best values average 
+
+-29.859999999999978
+-30.49999999999998
+-30.49999999999998
+-30.49999999999998
+-30.49999999999998
+-30.49999999999998
+-30.49999999999998

@@ -1,0 +1,150 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 7
+The considered Annealing Duration 3
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 10
+The solution found [ 1 -1  1 -1 -1 -1  1]
+The value found -76.0
+The Success probability is 1.0
+The average value is -76.0
+The total execution time is 0.29894447326660156
+The average time for execution is 0.0029693388938903807
+The average time for system update is 0.0008208505312601725
+The average time for replica update is 8.158397674560547e-05
+The average time for spin update is 1.1289505731491815e-05
+The list of values found 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values first execution 
+
+-12.2
+-20.5
+-26.3
+
+
+
+The list of best values first execution 
+
+-30.5
+-30.5
+-30.5
+
+
+
+The list of values average 
+
+-13.538
+-23.43499999999999
+-27.84699999999999
+
+
+
+The list of best values average 
+
+-29.159999999999975
+-30.49999999999998
+-30.49999999999998

@@ -1,0 +1,168 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 15
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1  1  1 -1 -1 -1 -1  1  1 -1 -1  1  1 -1]
+The value found -340.0
+The Success probability is 0.98
+The average value is -339.95
+The total execution time is 2.866030216217041
+The average time for execution is 0.02866030216217041
+The average time for all systems update is 0.0036681921141488213
+The average time for system update is 0.0007018765722002302
+The average time for replica update is 0.0003505049433026995
+The average time for spin update is 2.2657977967035204e-05
+The list of values found 
+
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-339.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+-336.0
+-340.0
+-340.0
+-340.0
+-340.0
+-340.0
+
+
+
+The list of values first execution 
+
+-290.7
+-297.5
+-306.0
+-309.1
+-308.8
+-317.1
+-317.9
+
+
+
+The list of best values first execution 
+
+-279.0
+-284.0
+-323.0
+-332.0
+-327.0
+-302.0
+-297.0
+
+
+
+The list of values average 
+
+-295.077
+-312.856
+-320.62200000000007
+-324.4560000000001
+-326.075
+-328.03
+-329.01399999999995
+
+
+
+The list of best values average 
+
+-275.8399999999999
+-305.0499999999998
+-319.34000000000003
+-323.29
+-327.07999999999987
+-327.4699999999999
+-327.1399999999998

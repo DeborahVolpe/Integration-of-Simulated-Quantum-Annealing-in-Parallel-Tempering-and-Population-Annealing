@@ -1,0 +1,168 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin3
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [[-1  1 -1]
+ [ 1 -1 -1]
+ [ 1  1 -1]]
+The value found -6.0
+The Success probability is 1.0
+The average value is -6.0
+The total execution time is 0.9135148525238037
+The average time for execution is 0.009135148525238036
+The average time for all systems update is 0.0013148220380147298
+The average time for system tempering update is 0.00017633703019883897
+The average time for system population update is 0.28557586669921875
+The average time for replica update is 5.515224403805203e-05
+The average time for spin update is 1.7116680557345166e-05
+The list of values found 
+
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+
+
+
+The list of values first execution 
+
+-4.555555555555555
+-4.888888888888889
+-5.333333333333333
+-5.222222222222222
+-5.277777777777778
+-5.277777777777778
+
+
+
+The list of best values first execution 
+
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+-6.0
+
+
+
+The list of values average 
+
+-4.56888888888889
+-4.94
+-5.1572222222222255
+-5.319999999999999
+-5.3822222222222225
+-5.45611111111111
+
+
+
+The list of best values average 
+
+-5.99999999999999
+-5.99999999999999
+-5.99999999999999
+-5.99999999999999
+-5.99999999999999
+-5.99999999999999

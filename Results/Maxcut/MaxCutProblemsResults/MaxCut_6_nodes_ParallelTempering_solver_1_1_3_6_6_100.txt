@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 6
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [-1 -1  1  1 -1  1]
+The value found -53.0
+The Success probability is 1.0
+The average value is -53.0
+The total execution time is 1.6730947494506836
+The average time for execution is 0.016730947494506834
+The average time for all systems update is 0.002259010871251424
+The average time for system update is 0.0003365982241100735
+The average time for replica update is 0.00011115539956975866
+The average time for spin update is 1.780759405206751e-05
+The list of values found 
+
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+
+
+
+The list of values first execution 
+
+-49.5
+-50.666666666666664
+-49.72222222222222
+-49.22222222222222
+-50.611111111111114
+-50.333333333333336
+
+
+
+The list of best values first execution 
+
+-45.0
+-48.0
+-53.0
+-53.0
+-52.0
+-52.0
+
+
+
+The list of values average 
+
+-48.01055555555553
+-49.822222222222244
+-49.842222222222226
+-49.906111111111116
+-49.81000000000002
+-49.75555555555554
+
+
+
+The list of best values average 
+
+-45.62999999999998
+-49.61000000000002
+-49.53000000000004
+-49.55000000000003
+-49.57000000000002
+-49.44000000000001

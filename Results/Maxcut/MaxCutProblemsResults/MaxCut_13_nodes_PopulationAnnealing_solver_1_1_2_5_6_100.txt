@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 13
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1. -1. -1. -1.  1.  1.  1.  1. -1.  1.  1. -1. -1.]
+The value found -251.0
+The Success probability is 0.46
+The average value is -247.43
+The total execution time is 1.804673671722412
+The average time for execution is 0.01804673671722412
+The average time for all systems update is 0.0028333393732706707
+The average time for system update is 0.0005377373695373536
+The average time for replica update is 0.000267887552579244
+The average time for spin update is 1.999058784582676e-05
+The list of values found 
+
+-240.0
+-240.0
+-251.0
+-251.0
+-248.0
+-240.0
+-240.0
+-248.0
+-251.0
+-248.0
+-248.0
+-251.0
+-251.0
+-240.0
+-240.0
+-251.0
+-248.0
+-248.0
+-248.0
+-251.0
+-251.0
+-240.0
+-248.0
+-251.0
+-251.0
+-240.0
+-248.0
+-248.0
+-251.0
+-251.0
+-251.0
+-248.0
+-244.0
+-251.0
+-251.0
+-251.0
+-240.0
+-240.0
+-240.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-248.0
+-251.0
+-248.0
+-240.0
+-240.0
+-251.0
+-240.0
+-248.0
+-248.0
+-240.0
+-248.0
+-251.0
+-240.0
+-248.0
+-251.0
+-251.0
+-248.0
+-251.0
+-248.0
+-251.0
+-251.0
+-246.0
+-240.0
+-248.0
+-251.0
+-251.0
+-248.0
+-248.0
+-239.0
+-248.0
+-251.0
+-240.0
+-236.0
+-251.0
+-251.0
+-248.0
+-248.0
+-251.0
+-240.0
+-251.0
+-251.0
+-251.0
+-251.0
+-240.0
+-251.0
+-251.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-248.0
+-240.0
+-251.0
+
+
+
+The list of values first execution 
+
+-209.3
+-228.1
+-235.5
+-240.0
+-240.0
+-240.0
+
+
+
+The list of best values first execution 
+
+-231.0
+-234.0
+-240.0
+-240.0
+-240.0
+-240.0
+
+
+
+The list of values average 
+
+-209.06500000000005
+-228.37100000000012
+-239.03100000000006
+-243.3549999999998
+-245.35799999999978
+-246.45499999999979
+
+
+
+The list of best values average 
+
+-235.81
+-240.6099999999999
+-243.18999999999988
+-245.57999999999979
+-246.26999999999973
+-246.8099999999998

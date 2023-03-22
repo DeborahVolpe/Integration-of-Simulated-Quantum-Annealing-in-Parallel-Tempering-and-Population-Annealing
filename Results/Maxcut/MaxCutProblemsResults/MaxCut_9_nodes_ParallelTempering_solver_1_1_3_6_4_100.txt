@@ -1,0 +1,156 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 9
+The considered Annealing Duration 4
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [-1 -1 -1  1 -1  1  1  1 -1]
+The value found -132.0
+The Success probability is 1.0
+The average value is -132.0
+The total execution time is 0.9483792781829834
+The average time for execution is 0.009483792781829835
+The average time for all systems update is 0.0020395612716674807
+The average time for system update is 0.00030792603890101113
+The average time for replica update is 0.00010203407870398627
+The average time for spin update is 1.0911550050900306e-05
+The list of values found 
+
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+-132.0
+
+
+
+The list of values first execution 
+
+-115.94444444444444
+-123.5
+-124.38888888888889
+-126.22222222222223
+
+
+
+The list of best values first execution 
+
+-100.0
+-119.0
+-116.0
+-121.0
+
+
+
+The list of values average 
+
+-115.85
+-123.04777777777777
+-126.06222222222222
+-127.0666666666666
+
+
+
+The list of best values average 
+
+-111.66000000000001
+-121.96999999999991
+-126.43999999999978
+-127.65999999999977

@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 12
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [ 1  1 -1  1  1 -1 -1 -1 -1 -1 -1  1]
+The value found -228.0
+The Success probability is 1.0
+The average value is -228.0
+The total execution time is 2.5698776245117188
+The average time for execution is 0.025693786144256592
+The average time for all systems update is 0.004102068742116292
+The average time for system update is 0.0006622019078996446
+The average time for replica update is 0.00021967320530502885
+The average time for spin update is 1.75660867014049e-05
+The list of values found 
+
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+-228.0
+
+
+
+The list of values first execution 
+
+-192.77777777777777
+-190.22222222222223
+-211.33333333333334
+-209.61111111111111
+-222.33333333333334
+-221.22222222222223
+
+
+
+The list of best values first execution 
+
+-228.0
+-218.0
+-228.0
+-228.0
+-228.0
+-228.0
+
+
+
+The list of values average 
+
+-191.83166666666665
+-203.68166666666664
+-215.58555555555552
+-221.70888888888896
+-223.97444444444446
+-224.91944444444457
+
+
+
+The list of best values average 
+
+-218.21999999999997
+-225.2800000000001
+-227.12000000000006
+-228.00000000000009
+-228.00000000000009
+-228.00000000000009

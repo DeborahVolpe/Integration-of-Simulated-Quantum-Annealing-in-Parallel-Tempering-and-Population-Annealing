@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin7
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [ 1 -1  1 -1 -1 -1  1]
+The value found -76.0
+The Success probability is 1.0
+The average value is -76.0
+The total execution time is 1.3768234252929688
+The average time for execution is 0.013768234252929688
+The average time for all systems update is 0.001822934831891741
+The average time for system tempering update is 0.00028093065534319197
+The average time for system population update is 0.497422456741333
+The average time for replica update is 8.580258914402553e-05
+The average time for spin update is 1.1653740660133275e-05
+The list of values found 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values first execution 
+
+-59.5
+-65.61111111111111
+-71.55555555555556
+-74.38888888888889
+-72.55555555555556
+-71.44444444444444
+-72.61111111111111
+
+
+
+The list of best values first execution 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values average 
+
+-57.55999999999999
+-64.76555555555558
+-69.63388888888892
+-72.04999999999995
+-73.0688888888889
+-73.24388888888888
+-73.34333333333336
+
+
+
+The list of best values average 
+
+-75.91000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003

@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 6
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [ 1  1 -1 -1  1 -1]
+The value found -53.0
+The Success probability is 1.0
+The average value is -53.0
+The total execution time is 0.8675282001495361
+The average time for execution is 0.00867528200149536
+The average time for all systems update is 0.0013101657231648764
+The average time for system update is 0.00020380702283647324
+The average time for replica update is 6.721110255629929e-05
+The average time for spin update is 1.0358098848366443e-05
+The list of values found 
+
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+
+
+
+The list of values first execution 
+
+-45.94444444444444
+-47.833333333333336
+-48.94444444444444
+-51.44444444444444
+-51.611111111111114
+-52.333333333333336
+
+
+
+The list of best values first execution 
+
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+-53.0
+
+
+
+The list of values average 
+
+-46.77555555555556
+-48.030555555555544
+-49.82888888888888
+-50.8727777777778
+-51.58277777777775
+-52.01277777777777
+
+
+
+The list of best values average 
+
+-52.93000000000007
+-52.89000000000007
+-52.92000000000007
+-52.97000000000007
+-52.97000000000007
+-52.98000000000007

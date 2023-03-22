@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin16
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System Tempering 3
+The considered Number Of System Population 3
+The solution found [ 1.  1.  1. -1.  1. -1. -1. -1. -1.  1. -1. -1.  1.  1. -1.  1.]
+The value found -379.0
+The Success probability is 1.0
+The average value is -379.0
+The total execution time is 4.386266708374023
+The average time for execution is 0.04386266708374023
+The average time for all systems update is 0.00534084290266037
+The average time for system tempering update is 0.0009119005997975668
+The average time for system population update is 1.8690009117126465
+The average time for replica update is 0.0002812881271044413
+The average time for spin update is 1.7113870837622218e-05
+The list of values found 
+
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+
+
+
+The list of values first execution 
+
+-337.55555555555554
+-344.77777777777777
+-355.72222222222223
+-359.55555555555554
+-358.77777777777777
+-358.27777777777777
+-362.72222222222223
+-367.05555555555554
+
+
+
+The list of best values first execution 
+
+-362.0
+-367.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+-379.0
+
+
+
+The list of values average 
+
+-336.62500000000006
+-348.331111111111
+-355.6777777777779
+-360.37999999999994
+-363.2661111111111
+-364.8266666666666
+-366.5744444444444
+-367.12166666666667
+
+
+
+The list of best values average 
+
+-366.27000000000004
+-372.92000000000024
+-376.4700000000002
+-377.96000000000043
+-378.74000000000046
+-378.9000000000005
+-378.9200000000005
+-378.92000000000047

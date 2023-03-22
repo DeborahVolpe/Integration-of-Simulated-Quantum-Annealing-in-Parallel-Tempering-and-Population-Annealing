@@ -1,0 +1,168 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 14
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1. -1.  1.  1.  1. -1. -1. -1. -1. -1.  1.  1. -1.  1.]
+The value found -289.0
+The Success probability is 0.36
+The average value is -284.02
+The total execution time is 2.2269046306610107
+The average time for execution is 0.022269046306610106
+The average time for all systems update is 0.0030242228507995606
+The average time for system update is 0.0005782675061907087
+The average time for replica update is 0.00028827204023088726
+The average time for spin update is 1.9742238278291665e-05
+The list of values found 
+
+-278.0
+-289.0
+-289.0
+-289.0
+-278.0
+-278.0
+-289.0
+-283.0
+-289.0
+-283.0
+-278.0
+-278.0
+-289.0
+-287.0
+-283.0
+-289.0
+-278.0
+-289.0
+-281.0
+-289.0
+-278.0
+-283.0
+-277.0
+-283.0
+-278.0
+-278.0
+-283.0
+-289.0
+-287.0
+-274.0
+-281.0
+-289.0
+-277.0
+-283.0
+-289.0
+-287.0
+-289.0
+-289.0
+-281.0
+-287.0
+-272.0
+-281.0
+-278.0
+-289.0
+-287.0
+-283.0
+-283.0
+-289.0
+-283.0
+-289.0
+-283.0
+-289.0
+-289.0
+-287.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-289.0
+-287.0
+-278.0
+-273.0
+-287.0
+-287.0
+-278.0
+-283.0
+-287.0
+-289.0
+-278.0
+-289.0
+-289.0
+-275.0
+-289.0
+-289.0
+-283.0
+-289.0
+-289.0
+-278.0
+-283.0
+-283.0
+-289.0
+-275.0
+-283.0
+-283.0
+-289.0
+-289.0
+-287.0
+-283.0
+-289.0
+-283.0
+-289.0
+-283.0
+-278.0
+-272.0
+-278.0
+-287.0
+-278.0
+-283.0
+-283.0
+
+
+
+The list of values first execution 
+
+-238.9
+-271.2
+-275.4
+-276.0
+-278.0
+-278.0
+-278.0
+
+
+
+The list of best values first execution 
+
+-259.0
+-274.0
+-278.0
+-278.0
+-278.0
+-278.0
+-278.0
+
+
+
+The list of values average 
+
+-243.28599999999997
+-265.57699999999994
+-275.056
+-279.083
+-281.2099999999999
+-282.13299999999987
+-282.8479999999998
+
+
+
+The list of best values average 
+
+-272.36999999999995
+-277.88000000000005
+-279.95
+-281.48999999999984
+-282.6699999999998
+-282.9999999999999
+-283.5199999999998

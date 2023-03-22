@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 13
+The considered Annealing Duration 6
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1  1  1 -1 -1 -1 -1  1 -1 -1  1  1]
+The value found -251.0
+The Success probability is 0.85
+The average value is -250.42
+The total execution time is 1.731764793395996
+The average time for execution is 0.01731764793395996
+The average time for all systems update is 0.002544046640396118
+The average time for system update is 0.00048149649302164715
+The average time for replica update is 0.0002402580976486206
+The average time for spin update is 1.770021670903915e-05
+The list of values found 
+
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-243.0
+-248.0
+-248.0
+-251.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-251.0
+-251.0
+-248.0
+-251.0
+-248.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-251.0
+-251.0
+-248.0
+-251.0
+-240.0
+-248.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-248.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+-251.0
+
+
+
+The list of values first execution 
+
+-215.0
+-228.1
+-232.6
+-231.6
+-234.8
+-244.6
+
+
+
+The list of best values first execution 
+
+-234.0
+-248.0
+-248.0
+-248.0
+-248.0
+-248.0
+
+
+
+The list of values average 
+
+-212.93500000000003
+-228.18900000000008
+-234.30299999999988
+-238.08000000000007
+-240.60500000000005
+-242.20199999999997
+
+
+
+The list of best values average 
+
+-198.03999999999996
+-224.60999999999993
+-235.43999999999994
+-239.6299999999999
+-240.79999999999993
+-242.04999999999993

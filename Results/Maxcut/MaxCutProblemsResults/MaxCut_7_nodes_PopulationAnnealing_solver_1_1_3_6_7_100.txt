@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 7
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [[-1 -1 -1 -1 -1 -1 -1]
+ [-1  1 -1  1  1  1 -1]
+ [-1  1  1  1 -1  1 -1]]
+The value found -76.0
+The Success probability is 1.0
+The average value is -76.0
+The total execution time is 1.2634499073028564
+The average time for execution is 0.012629508972167969
+The average time for all systems update is 0.0016643599101475307
+The average time for system update is 0.000254871788479033
+The average time for replica update is 8.442820064605229e-05
+The average time for spin update is 1.121567220103984e-05
+The list of values found 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values first execution 
+
+-57.666666666666664
+-63.72222222222222
+-71.11111111111111
+-74.88888888888889
+-76.0
+-76.0
+-76.0
+
+
+
+The list of best values first execution 
+
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+-76.0
+
+
+
+The list of values average 
+
+-57.027222222222214
+-64.06222222222222
+-70.81166666666667
+-74.16833333333335
+-75.37611111111114
+-75.80777777777779
+-75.96222222222225
+
+
+
+The list of best values average 
+
+-75.64000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003
+-76.00000000000003

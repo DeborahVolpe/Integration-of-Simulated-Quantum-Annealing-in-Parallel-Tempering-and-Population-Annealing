@@ -1,0 +1,160 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 10
+The considered Annealing Duration 5
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 3
+The considered Number Of System 6
+The solution found [ 1  1 -1  1 -1 -1  1 -1  1 -1]
+The value found -160.0
+The Success probability is 1.0
+The average value is -160.0
+The total execution time is 1.9556608200073242
+The average time for execution is 0.019556608200073242
+The average time for all systems update is 0.0033677420616149904
+The average time for system update is 0.0005265279610951742
+The average time for replica update is 0.000174832820892334
+The average time for spin update is 1.663054625193278e-05
+The list of values found 
+
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+-160.0
+
+
+
+The list of values first execution 
+
+-140.16666666666666
+-143.83333333333334
+-149.61111111111111
+-152.83333333333334
+-150.22222222222223
+
+
+
+The list of best values first execution 
+
+-128.0
+-132.0
+-160.0
+-160.0
+-160.0
+
+
+
+The list of values average 
+
+-139.47055555555556
+-147.40444444444447
+-150.39944444444438
+-151.95888888888888
+-152.97055555555556
+
+
+
+The list of best values average 
+
+-132.39999999999998
+-146.48999999999995
+-150.1999999999999
+-152.41999999999982
+-151.64999999999984
