@@ -1,0 +1,52 @@
+Linear
+
+percentage 
+
+SQA
+<scipy.interpolate._interpolate.interp1d object at 0x00000202533E5270>
+SQPT
+<scipy.interpolate._interpolate.interp1d object at 0x0000020253580D10>
+SQPA
+<scipy.interpolate._interpolate.interp1d object at 0x00000202535F0F90>
+SQPTPA1
+<scipy.interpolate._interpolate.interp1d object at 0x00000202535F0F40>
+SQPTPA2
+<scipy.interpolate._interpolate.interp1d object at 0x00000202535F8540>
+TTS 
+
+SQA
+<scipy.interpolate._interpolate.interp1d object at 0x00000202548B4B80>
+SQPT
+<scipy.interpolate._interpolate.interp1d object at 0x00000202525B7270>
+SQPA
+<scipy.interpolate._interpolate.interp1d object at 0x00000202528D9BD0>
+SQPTPA1
+<scipy.interpolate._interpolate.interp1d object at 0x00000202528D93B0>
+SQPTPA2
+<scipy.interpolate._interpolate.interp1d object at 0x00000202528D9950>
+Cubic
+
+percentage 
+
+SQA
+<scipy.interpolate._interpolate.interp1d object at 0x00000202524A2590>
+SQPT
+<scipy.interpolate._interpolate.interp1d object at 0x00000202533C6CC0>
+SQPA
+<scipy.interpolate._interpolate.interp1d object at 0x0000020252638D60>
+SQPTPA1
+<scipy.interpolate._interpolate.interp1d object at 0x000002024EFB6B80>
+SQPTPA2
+<scipy.interpolate._interpolate.interp1d object at 0x000002024EFB6090>
+TTS 
+
+SQA
+<scipy.interpolate._interpolate.interp1d object at 0x0000020252708360>
+SQPT
+<scipy.interpolate._interpolate.interp1d object at 0x000002025279FF90>
+SQPA
+<scipy.interpolate._interpolate.interp1d object at 0x000002024F00D450>
+SQPTPA1
+<scipy.interpolate._interpolate.interp1d object at 0x00000202534E63B0>
+SQPTPA2
+<scipy.interpolate._interpolate.interp1d object at 0x00000202534E66D0>
