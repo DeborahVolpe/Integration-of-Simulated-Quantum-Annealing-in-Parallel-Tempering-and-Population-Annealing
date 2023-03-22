@@ -1,4 +1,8 @@
-# Simulated Quantum Annealing and hybrid algortithm
+# Integration of Simulated Quantum Annealing in Parallel Tempering and Population Annealing for Heterogenous-Profile QUBO Exploration
+
+D. Volpe, G. A. Cirillo, M. Zamboni and G. Turvani,
+"Integration of Simulated Quantum Annealing in Parallel Tempering and Population Annealing for Heterogenous-Profile QUBO Exploration,"
+in IEEE Access, 2023 March x, doi: 10.1109/ACCESS.2023.3260765
 
 
 
