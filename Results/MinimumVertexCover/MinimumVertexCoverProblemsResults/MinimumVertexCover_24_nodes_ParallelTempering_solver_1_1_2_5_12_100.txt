@@ -1,0 +1,188 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 24
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1 -1 -1 -1 -1 -1 -1 -1 -1 -1  1 -1  1  1 -1 -1 -1 -1 -1  1 -1 -1 -1  1]
+The value found 19.0
+The Success probability is 0.76
+The average value is 19.28
+The total execution time is 5.867697715759277
+The average time for execution is 0.05867697715759277
+The average time for all systems update is 0.004631677468617757
+The average time for system update is 0.0009024417797724405
+The average time for replica update is 0.0004504041870435079
+The average time for spin update is 1.8330405155817667e-05
+The list of values found 
+
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+20.0
+20.0
+19.0
+20.0
+20.0
+19.0
+20.0
+19.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+21.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+20.0
+20.0
+19.0
+19.0
+20.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+21.0
+20.0
+19.0
+19.0
+19.0
+19.0
+21.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+20.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+20.0
+19.0
+19.0
+19.0
+20.0
+19.0
+19.0
+19.0
+19.0
+21.0
+19.0
+19.0
+19.0
+
+
+
+The list of values first execution 
+
+89.1
+149.2
+114.4
+104.1
+141.0
+116.5
+109.0
+133.0
+123.1
+126.2
+129.4
+124.7
+
+
+
+The list of best values first execution 
+
+29.0
+35.0
+20.0
+43.0
+21.0
+42.0
+21.0
+19.0
+27.0
+27.0
+27.0
+19.0
+
+
+
+The list of values average 
+
+80.67599999999997
+177.33100000000007
+151.84799999999996
+98.89200000000001
+159.82299999999998
+141.25499999999994
+101.49100000000003
+155.79999999999998
+136.57000000000002
+105.47600000000001
+153.09700000000004
+134.09799999999996
+
+
+
+The list of best values average 
+
+22.110000000000017
+29.140000000000008
+28.41000000000001
+26.480000000000008
+26.93000000000001
+27.320000000000014
+27.60000000000002
+25.73
+26.21000000000001
+26.57
+26.49000000000001
+26.549999999999997

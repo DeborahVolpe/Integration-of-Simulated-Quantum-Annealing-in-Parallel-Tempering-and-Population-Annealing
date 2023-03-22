@@ -1,0 +1,189 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 25
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1.  1. -1. -1. -1. -1.  1.  1. -1. -1. -1. -1. -1. -1.  1. -1. -1. -1.
+ -1. -1. -1.  1. -1. -1. -1.]
+The value found 20.0
+The Success probability is 0.87
+The average value is 20.13
+The total execution time is 16.136292457580566
+The average time for execution is 0.16136292457580567
+The average time for all systems update is 0.013169550697008769
+The average time for system update is 0.0025748649835586547
+The average time for replica update is 0.0012854361534118653
+The average time for spin update is 5.0243237018585205e-05
+The list of values found 
+
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+21.0
+20.0
+21.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+21.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+21.0
+20.0
+
+
+
+The list of values first execution 
+
+78.8
+223.6
+241.7
+29.5
+134.4
+64.7
+53.3
+43.4
+38.8
+28.4
+28.3
+26.7
+
+
+
+The list of best values first execution 
+
+29.0
+29.0
+44.0
+22.0
+114.0
+44.0
+27.0
+27.0
+21.0
+20.0
+21.0
+20.0
+
+
+
+The list of values average 
+
+97.60000000000001
+240.9679999999999
+229.85299999999995
+66.94700000000003
+125.097
+72.67100000000002
+46.08800000000001
+53.00099999999999
+39.38399999999999
+32.217000000000006
+28.956
+29.023000000000003
+
+
+
+The list of best values average 
+
+31.34
+57.06000000000001
+77.2
+38.04999999999999
+80.86999999999999
+47.01999999999998
+28.12000000000001
+37.980000000000004
+24.400000000000006
+21.839999999999996
+21.189999999999987
+22.059999999999974

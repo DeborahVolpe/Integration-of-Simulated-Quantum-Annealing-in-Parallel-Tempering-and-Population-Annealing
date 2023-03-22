@@ -1,0 +1,172 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 17
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1 -1  1 -1 -1 -1 -1  1 -1  1 -1 -1 -1 -1 -1 -1  1]
+The value found 12.0
+The Success probability is 0.95
+The average value is 12.05
+The total execution time is 2.378817319869995
+The average time for execution is 0.02378817319869995
+The average time for all systems update is 0.002715235948562622
+The average time for system update is 0.0005203104019165039
+The average time for replica update is 0.00025912439823150637
+The average time for spin update is 1.4737115186803482e-05
+The list of values found 
+
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values first execution 
+
+40.9
+76.4
+68.2
+48.3
+64.0
+65.8
+55.3
+60.1
+
+
+
+The list of best values first execution 
+
+15.0
+20.0
+13.0
+14.0
+20.0
+21.0
+15.0
+14.0
+
+
+
+The list of values average 
+
+41.17199999999999
+83.025
+65.34999999999998
+49.761999999999986
+64.70200000000001
+61.57600000000002
+53.98700000000002
+60.38599999999998
+
+
+
+The list of best values average 
+
+14.57000000000002
+15.819999999999997
+13.77
+13.289999999999996
+13.399999999999991
+13.339999999999993
+12.819999999999997
+12.96999999999999

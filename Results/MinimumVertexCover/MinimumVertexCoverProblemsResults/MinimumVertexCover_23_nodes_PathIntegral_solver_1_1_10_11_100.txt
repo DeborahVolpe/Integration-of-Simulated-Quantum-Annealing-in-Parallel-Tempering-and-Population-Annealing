@@ -1,0 +1,182 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 23
+The considered Annealing Duration 11
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 10
+The solution found [-1 -1  1 -1 -1 -1 -1  1 -1 -1  1 -1 -1 -1 -1 -1 -1  1 -1 -1 -1 -1  1]
+The value found 18.0
+The Success probability is 0.06
+The average value is 19.8
+The total execution time is 3.5743932723999023
+The average time for execution is 0.035743932723999026
+The average time for system update is 0.0031715659661726518
+The average time for replica update is 0.0003169037428769198
+The average time for spin update is 1.34761587904376e-05
+The list of values found 
+
+18.0
+19.0
+19.0
+19.0
+19.0
+21.0
+19.0
+20.0
+26.0
+18.0
+20.0
+21.0
+20.0
+20.0
+19.0
+19.0
+20.0
+19.0
+20.0
+21.0
+21.0
+19.0
+20.0
+21.0
+19.0
+19.0
+20.0
+20.0
+19.0
+20.0
+20.0
+18.0
+20.0
+20.0
+19.0
+20.0
+19.0
+19.0
+21.0
+20.0
+19.0
+21.0
+26.0
+20.0
+20.0
+19.0
+21.0
+19.0
+21.0
+20.0
+18.0
+21.0
+19.0
+19.0
+20.0
+19.0
+20.0
+20.0
+20.0
+19.0
+20.0
+20.0
+18.0
+20.0
+20.0
+20.0
+20.0
+19.0
+21.0
+19.0
+20.0
+19.0
+20.0
+19.0
+18.0
+20.0
+20.0
+21.0
+20.0
+20.0
+19.0
+20.0
+20.0
+20.0
+20.0
+19.0
+20.0
+20.0
+20.0
+20.0
+19.0
+21.0
+20.0
+20.0
+20.0
+19.0
+20.0
+19.0
+19.0
+19.0
+
+
+
+The list of values first execution 
+
+63.1
+145.5
+64.2
+112.7
+71.5
+98.4
+88.1
+101.8
+93.5
+81.5
+104.4
+
+
+
+The list of best values first execution 
+
+22.0
+27.0
+27.0
+26.0
+19.0
+18.0
+35.0
+34.0
+42.0
+50.0
+35.0
+
+
+
+The list of values average 
+
+60.85299999999999
+164.672
+71.26499999999996
+118.48500000000003
+81.88100000000004
+104.84599999999999
+88.00199999999997
+99.158
+93.80399999999996
+93.81799999999996
+97.37800000000004
+
+
+
+The list of best values average 
+
+23.55000000000001
+54.0
+25.130000000000006
+38.66000000000002
+27.580000000000013
+35.14000000000002
+30.60000000000003
+32.900000000000006
+31.340000000000014
+32.050000000000004
+33.110000000000014

@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin17
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [ 1. -1.  1. -1. -1. -1. -1.  1. -1.  1. -1. -1. -1. -1. -1. -1.  1.]
+The value found 12.0
+The Success probability is 0.98
+The average value is 12.02
+The total execution time is 2.2035257816314697
+The average time for execution is 0.0220352578163147
+The average time for all systems update is 0.002633569538593292
+The average time for system tempering update is 0.0004923083384831747
+The average time for system population update is 0.7056138515472412
+The average time for replica update is 0.00023506948351860045
+The average time for spin update is 1.3283450813854442e-05
+The list of values found 
+
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values first execution 
+
+45.6
+82.7
+84.5
+41.5
+50.0
+53.1
+35.0
+41.1
+
+
+
+The list of best values first execution 
+
+14.0
+12.0
+12.0
+12.0
+12.0
+20.0
+13.0
+12.0
+
+
+
+The list of values average 
+
+44.00999999999999
+87.67900000000006
+69.809
+44.18800000000001
+52.509999999999984
+47.39099999999998
+35.04099999999998
+42.96699999999997
+
+
+
+The list of best values average 
+
+14.460000000000026
+14.939999999999996
+13.709999999999996
+13.299999999999992
+12.849999999999993
+12.93
+12.379999999999995
+12.239999999999993

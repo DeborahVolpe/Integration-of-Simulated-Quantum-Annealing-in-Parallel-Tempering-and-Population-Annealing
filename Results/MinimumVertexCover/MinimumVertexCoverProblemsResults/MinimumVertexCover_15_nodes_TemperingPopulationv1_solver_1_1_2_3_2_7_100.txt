@@ -1,0 +1,164 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin15
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1. -1. -1. -1. -1.  1. -1. -1.  1. -1. -1.  1.  1.  1. -1.]
+The value found 10.0
+The Success probability is 0.9
+The average value is 10.1
+The total execution time is 5.2732133865356445
+The average time for execution is 0.05273213386535645
+The average time for all systems update is 0.007195930821555002
+The average time for system tempering update is 0.0011523364839099702
+The average time for system population update is 2.1370182037353516
+The average time for replica update is 0.0006489903245653425
+The average time for spin update is 4.2005604789370584e-05
+The list of values found 
+
+11.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+
+
+
+The list of values first execution 
+
+31.2
+72.0
+37.6
+41.2
+43.3
+31.5
+33.0
+
+
+
+The list of best values first execution 
+
+13.0
+19.0
+19.0
+13.0
+12.0
+11.0
+11.0
+
+
+
+The list of values average 
+
+34.775999999999996
+63.822
+47.59100000000001
+37.643
+39.035
+33.63700000000001
+30.86000000000001
+
+
+
+The list of best values average 
+
+11.79999999999999214.15999999999997912.40999999999998611.76999999999998411.16999999999998410.78999999999998510.409999999999984

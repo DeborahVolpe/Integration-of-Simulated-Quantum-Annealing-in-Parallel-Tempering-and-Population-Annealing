@@ -1,0 +1,183 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin20
+The considered Annealing Duration 10
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1. -1. -1. -1. -1. -1. -1.  1. -1. -1. -1. -1. -1.  1.  1.  1. -1. -1.
+ -1.  1.]
+The value found 15.0
+The Success probability is 1.0
+The average value is 15.0
+The total execution time is 3.0029757022857666
+The average time for execution is 0.030029757022857664
+The average time for all systems update is 0.002915515899658203
+The average time for system tempering update is 0.0005576399167378744
+The average time for system population update is 1.0325672626495361
+The average time for replica update is 0.00027017552852630616
+The average time for spin update is 1.3186479806900024e-05
+The list of values found 
+
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+
+
+
+The list of values first execution 
+
+40.6
+148.7
+105.5
+49.1
+95.1
+75.5
+39.2
+71.9
+67.0
+33.7
+
+
+
+The list of best values first execution 
+
+17.0
+26.0
+23.0
+22.0
+22.0
+22.0
+15.0
+15.0
+16.0
+23.0
+
+
+
+The list of values average 
+
+53.168000000000006
+113.02900000000001
+99.31299999999999
+55.12600000000001
+78.585
+66.30100000000002
+47.467999999999975
+60.321000000000005
+58.65300000000002
+42.061000000000014
+
+
+
+The list of best values average 
+
+17.08
+19.66000000000001
+19.88000000000001
+18.440000000000005
+18.120000000000008
+17.110000000000017
+16.98000000000001
+16.790000000000017
+16.55000000000002
+15.900000000000023

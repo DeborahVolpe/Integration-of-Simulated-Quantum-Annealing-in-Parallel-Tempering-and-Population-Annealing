@@ -1,0 +1,172 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 17
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1.  1.  1. -1. -1.  1. -1. -1.  1. -1. -1. -1. -1.  1. -1. -1. -1.]
+The value found 12.0
+The Success probability is 0.83
+The average value is 12.18
+The total execution time is 1.6709926128387451
+The average time for execution is 0.01670992612838745
+The average time for all systems update is 0.0020107850432395935
+The average time for system update is 0.0003879307508468628
+The average time for replica update is 0.00019364801049232482
+The average time for spin update is 1.098847038605634e-05
+The list of values found 
+
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+13.0
+12.0
+13.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+14.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+13.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+13.0
+12.0
+
+
+
+The list of values first execution 
+
+44.5
+88.4
+101.5
+38.7
+25.2
+21.7
+19.1
+17.8
+
+
+
+The list of best values first execution 
+
+21.0
+23.0
+98.0
+23.0
+21.0
+13.0
+12.0
+12.0
+
+
+
+The list of values average 
+
+48.936999999999976
+109.94299999999997
+88.39100000000003
+43.358000000000004
+35.72499999999998
+28.93399999999999
+18.913000000000004
+16.483999999999995
+
+
+
+The list of best values average 
+
+17.450000000000014
+30.029999999999998
+31.02
+24.880000000000003
+21.340000000000007
+15.610000000000008
+13.049999999999994
+12.55999999999999

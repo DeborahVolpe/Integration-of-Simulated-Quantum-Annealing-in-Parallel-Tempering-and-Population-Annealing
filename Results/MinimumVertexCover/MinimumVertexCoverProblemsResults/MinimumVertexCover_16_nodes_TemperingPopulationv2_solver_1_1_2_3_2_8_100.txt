@@ -1,0 +1,174 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin16
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1. -1. -1. -1. -1. -1. -1. -1. -1. -1.  1.  1. -1.  1. -1.  1.]
+The value found 12.0
+The Success probability is 1.0
+The average value is 12.0
+The total execution time is 6.755730628967285
+The average time for execution is 0.06755730628967285
+The average time for all systems update is 0.008041888177394867
+The average time for system tempering update is 0.0014805283149083455
+The average time for system population update is 2.169247627258301
+The average time for replica update is 0.0007131849825382233
+The average time for spin update is 4.3118374422192574e-05
+The list of values found 
+
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values first execution 
+
+38.6
+89.5
+52.4
+35.7
+44.5
+41.8
+27.9
+36.2
+
+
+
+The list of best values first execution 
+
+13.0
+20.0
+21.0
+13.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values average 
+
+39.896000000000015
+80.289
+63.537000000000006
+43.75699999999998
+49.43900000000003
+45.57800000000002
+36.32300000000001
+41.33700000000002
+
+
+
+The list of best values average 
+
+13.160000000000007
+14.909999999999986
+14.169999999999991
+13.299999999999997
+13.57999999999998
+13.66999999999999
+13.14999999999999
+12.549999999999981

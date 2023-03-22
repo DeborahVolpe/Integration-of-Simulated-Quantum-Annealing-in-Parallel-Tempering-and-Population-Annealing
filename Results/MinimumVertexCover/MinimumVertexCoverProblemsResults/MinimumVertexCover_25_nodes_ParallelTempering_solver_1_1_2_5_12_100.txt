@@ -1,0 +1,189 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 25
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1 -1 -1 -1 -1  1 -1 -1 -1 -1  1 -1 -1  1 -1 -1 -1 -1  1 -1 -1 -1 -1
+ -1]
+The value found 20.0
+The Success probability is 0.76
+The average value is 20.29
+The total execution time is 9.11975884437561
+The average time for execution is 0.0911975884437561
+The average time for all systems update is 0.007233312726020813
+The average time for system update is 0.0014102137088775634
+The average time for replica update is 0.0007042294939359029
+The average time for spin update is 2.7484891414642333e-05
+The list of values found 
+
+20.0
+20.0
+20.0
+21.0
+21.0
+20.0
+20.0
+21.0
+21.0
+22.0
+20.0
+20.0
+21.0
+21.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+22.0
+20.0
+21.0
+21.0
+20.0
+20.0
+23.0
+21.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+21.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+20.0
+22.0
+21.0
+21.0
+21.0
+20.0
+20.0
+21.0
+20.0
+
+
+
+The list of values first execution 
+
+96.1
+151.1
+149.4
+96.1
+158.9
+149.6
+97.1
+158.1
+148.6
+97.6
+158.0
+150.3
+
+
+
+The list of best values first execution 
+
+23.0
+35.0
+28.0
+20.0
+28.0
+29.0
+29.0
+35.0
+20.0
+20.0
+27.0
+28.0
+
+
+
+The list of values average 
+
+83.29199999999997
+174.684
+156.57900000000004
+97.795
+154.98299999999992
+144.83199999999997
+101.758
+149.80699999999996
+140.67699999999994
+103.25900000000001
+148.40200000000002
+139.88800000000003
+
+
+
+The list of best values average 
+
+23.960000000000008
+34.60000000000001
+30.97
+28.610000000000003
+29.329999999999995
+30.630000000000003
+27.510000000000005
+28.60000000000001
+28.670000000000005
+30.48000000000001
+28.769999999999992
+29.490000000000006

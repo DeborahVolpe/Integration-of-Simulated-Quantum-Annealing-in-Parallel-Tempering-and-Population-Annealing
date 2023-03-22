@@ -1,0 +1,3 @@
+Offset 48.0
+Energy 3.0
+Solution {0: 1, 1: 1, 2: 0, 3: 1, 4: 0}

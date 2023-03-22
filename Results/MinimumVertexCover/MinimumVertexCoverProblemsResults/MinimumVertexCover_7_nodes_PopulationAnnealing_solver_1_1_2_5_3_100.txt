@@ -1,0 +1,152 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 7
+The considered Annealing Duration 3
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1 -1  1 -1  1 -1 -1]
+The value found 4.0
+The Success probability is 0.96
+The average value is 4.04
+The total execution time is 0.645216703414917
+The average time for execution is 0.00645216703414917
+The average time for all systems update is 0.0018149511019388835
+The average time for system update is 0.0003278098106384277
+The average time for replica update is 0.00016223891576131185
+The average time for spin update is 2.158378419421968e-05
+The list of values found 
+
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+5.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+5.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+5.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+5.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+
+
+
+The list of values first execution 
+
+13.9
+21.9
+6.1
+
+
+
+The list of best values first execution 
+
+4.0
+4.0
+4.0
+
+
+
+The list of values average 
+
+13.359000000000002
+18.747999999999994
+5.979000000000001
+
+
+
+The list of best values average 
+
+4.4899999999999975
+6.389999999999998
+4.0900000000000025

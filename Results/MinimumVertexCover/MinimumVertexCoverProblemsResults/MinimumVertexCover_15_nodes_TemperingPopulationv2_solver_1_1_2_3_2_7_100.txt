@@ -1,0 +1,170 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v2-----------
+The number of considered Spin15
+The considered Annealing Duration 7
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1. -1. -1. -1. -1.  1. -1. -1.  1. -1. -1.  1.  1.  1. -1.]
+The value found 10.0
+The Success probability is 0.89
+The average value is 10.11
+The total execution time is 4.32983136177063
+The average time for execution is 0.0432983136177063
+The average time for all systems update is 0.0058897890363420755
+The average time for system tempering update is 0.001077888011932373
+The average time for system population update is 1.3673226833343506
+The average time for replica update is 0.0005173955985477992
+The average time for spin update is 3.327274322509766e-05
+The list of values found 
+
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+10.0
+11.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+11.0
+11.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+
+
+
+The list of values first execution 
+
+28.8
+66.9
+53.7
+55.3
+40.0
+36.3
+24.0
+
+
+
+The list of best values first execution 
+
+12.0
+12.0
+12.0
+12.0
+11.0
+12.0
+10.0
+
+
+
+The list of values average 
+
+32.946
+67.09400000000002
+47.524
+36.56400000000001
+38.18900000000001
+34.123999999999995
+31.26699999999999
+
+
+
+The list of best values average 
+
+11.809999999999986
+14.019999999999982
+12.169999999999986
+11.029999999999985
+11.189999999999985
+10.77999999999998
+10.559999999999983

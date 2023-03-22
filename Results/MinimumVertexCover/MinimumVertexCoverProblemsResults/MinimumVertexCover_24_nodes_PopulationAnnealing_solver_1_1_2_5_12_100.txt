@@ -1,0 +1,189 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 24
+The considered Annealing Duration 12
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1. -1. -1.  1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.  1.
+  1. -1. -1. -1.  1.  1.]
+The value found 19.0
+The Success probability is 0.98
+The average value is 19.02
+The total execution time is 14.447946548461914
+The average time for execution is 0.14447946548461915
+The average time for all systems update is 0.011786693731943767
+The average time for system update is 0.0023009866078694662
+The average time for replica update is 0.0011491563518842062
+The average time for spin update is 4.6622731619411045e-05
+The list of values found 
+
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+
+
+
+The list of values first execution 
+
+66.8
+284.1
+212.8
+74.0
+81.2
+91.0
+29.8
+27.5
+49.9
+32.4
+20.2
+22.6
+
+
+
+The list of best values first execution 
+
+29.0
+59.0
+43.0
+66.0
+58.0
+64.0
+19.0
+20.0
+35.0
+19.0
+19.0
+19.0
+
+
+
+The list of values average 
+
+100.15200000000002
+238.32500000000005
+235.56500000000005
+66.55599999999998
+109.91400000000003
+72.28199999999998
+43.647
+46.67300000000001
+38.376
+30.844
+26.812
+25.823999999999995
+
+
+
+The list of best values average 
+
+31.81000000000001
+51.41
+87.32000000000001
+37.78000000000001
+71.44999999999997
+44.81000000000005
+28.270000000000003
+32.37000000000001
+23.75
+20.78
+20.310000000000002
+19.83000000000001

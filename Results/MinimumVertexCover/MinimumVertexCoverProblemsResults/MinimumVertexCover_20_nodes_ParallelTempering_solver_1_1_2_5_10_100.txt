@@ -1,0 +1,180 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 20
+The considered Annealing Duration 10
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1 -1 -1 -1 -1 -1 -1  1 -1 -1 -1 -1 -1  1  1  1 -1 -1 -1  1]
+The value found 15.0
+The Success probability is 0.97
+The average value is 15.04
+The total execution time is 2.926102876663208
+The average time for execution is 0.02926102876663208
+The average time for all systems update is 0.0027199993133544924
+The average time for system update is 0.0005224765777587891
+The average time for replica update is 0.00026103854179382324
+The average time for spin update is 1.2760326862335206e-05
+The list of values found 
+
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+17.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+
+
+
+The list of values first execution 
+
+60.0
+108.5
+112.2
+71.9
+100.3
+96.5
+49.1
+103.2
+95.0
+51.6
+
+
+
+The list of best values first execution 
+
+18.0
+19.0
+39.0
+31.0
+17.0
+23.0
+16.0
+15.0
+23.0
+16.0
+
+
+
+The list of values average 
+
+53.54500000000002
+108.81699999999998
+92.34299999999996
+63.578999999999986
+92.69400000000002
+84.23100000000005
+67.79199999999999
+88.66399999999996
+84.29899999999998
+69.47699999999998
+
+
+
+The list of best values average 
+
+17.070000000000004
+19.650000000000002
+19.700000000000006
+19.020000000000003
+18.430000000000007
+18.67000000000001
+18.660000000000007
+18.510000000000012
+18.200000000000003
+18.560000000000006

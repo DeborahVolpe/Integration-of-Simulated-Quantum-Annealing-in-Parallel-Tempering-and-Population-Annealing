@@ -1,0 +1,177 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 19
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1.  1. -1. -1. -1.  1. -1. -1. -1. -1. -1.  1. -1. -1.  1. -1. -1.  1.
+ -1.]
+The value found 14.0
+The Success probability is 0.85
+The average value is 14.17
+The total execution time is 2.3259003162384033
+The average time for execution is 0.023259003162384034
+The average time for all systems update is 0.0024995872709486218
+The average time for system update is 0.0004832837846544054
+The average time for replica update is 0.00024141518274943034
+The average time for spin update is 1.2370265715303476e-05
+The list of values found 
+
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+15.0
+14.0
+15.0
+14.0
+15.0
+14.0
+14.0
+16.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+15.0
+15.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+16.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+
+
+
+The list of values first execution 
+
+66.6
+181.1
+107.2
+58.6
+33.9
+49.4
+24.0
+15.7
+18.8
+
+
+
+The list of best values first execution 
+
+16.0
+23.0
+17.0
+30.0
+15.0
+30.0
+15.0
+15.0
+14.0
+
+
+
+The list of values average 
+
+58.84
+135.83300000000006
+115.19899999999998
+45.80999999999999
+52.673
+42.554
+26.634999999999994
+22.169000000000008
+20.147999999999996
+
+
+
+The list of best values average 
+
+20.25
+36.98999999999999
+40.789999999999985
+24.720000000000013
+28.87
+28.77
+15.670000000000023
+15.400000000000023
+15.170000000000027

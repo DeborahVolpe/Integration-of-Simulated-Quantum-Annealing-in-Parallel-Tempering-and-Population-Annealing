@@ -1,0 +1,158 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c|c?c|c?c|c?c|c?c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} &  \multicolumn{2}{c?}{\textbf{SQA}} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{2}{c?}{\textbf{SQPTPA1}} & \multicolumn{2}{c?}{\textbf{SQPTPA2}} \\
+\hline
+\textbf{Name} & \textbf{MC\_step} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} & \textbf{opt} & \textbf{avg} \\
+\noalign{\hrule height 1.5pt}
+MinimumVertexCover\_3&1&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}&\textbf{1.00} & \textbf{1.00}\\
+\hline
+MinimumVertexCover\_4&4&2.00 & 2.01&2.00 & 2.00&2.00 & 2.01&2.00 & 2.00&\textbf{1.00} & \textbf{1.00}\\
+\hline
+MinimumVertexCover\_5&2&\textbf{3.00} & \textbf{3.00}&\textbf{3.00} & \textbf{3.00}&\textbf{3.00} & \textbf{3.00}&\textbf{3.00} & \textbf{3.00}&\textbf{3.00} & \textbf{3.00}\\
+\hline
+MinimumVertexCover\_6&3&\textbf{2.00} & \textbf{2.00}&\textbf{2.00} & \textbf{2.00}&\textbf{2.00} & \textbf{2.00}&\textbf{2.00} & \textbf{2.00}&\textbf{2.00} & \textbf{2.00}\\
+\hline
+MinimumVertexCover\_7&3&\textbf{4.00} & \textbf{4.00}&\textbf{4.00} & \textbf{4.00}&4.00 & 4.04&\textbf{4.00} & \textbf{4.00}&\textbf{4.00} & \textbf{4.00}\\
+\hline
+MinimumVertexCover\_8&4&4.00 & 4.01&\textbf{4.00} & \textbf{4.00}&4.00 & 4.02&\textbf{4.00} & \textbf{4.00}&\textbf{4.00} & \textbf{4.00}\\
+\hline
+MinimumVertexCover\_9&4&\textbf{6.00} & \textbf{6.00}&6.00 & 6.01&6.00 & 6.07&\textbf{6.00} & \textbf{6.00}&6.00 & 6.01\\
+\hline
+MinimumVertexCover\_10&5&5.00 & 5.06&\textbf{5.00} & \textbf{5.00}&5.00 & 5.02&\textbf{5.00} & \textbf{5.00}&\textbf{5.00} & \textbf{5.00}\\
+\hline
+MinimumVertexCover\_11&5&7.00 & 7.25&7.00 & 7.08&7.00 & 7.23&\textbf{7.00} & \textbf{7.07}&7.00 & 7.09\\
+\hline
+MinimumVertexCover\_12&6&8.00 & 8.21&8.00 & 8.13&8.00 & 8.34&\textbf{8.00} & \textbf{8.12}&\textbf{8.00} & \textbf{8.12}\\
+\hline
+MinimumVertexCover\_13&6&9.00 & 9.70&\textbf{9.00} & \textbf{9.07}&9.00 & 9.28&9.00 & 9.11&9.00 & 9.16\\
+\hline
+MinimumVertexCover\_14&7&8.00 & 9.12&8.00 & 8.17&8.00 & 8.48&\textbf{8.00} & \textbf{8.11}&8.00 & 8.22\\
+\hline
+MinimumVertexCover\_15&7&10.00 & 10.87&10.00 & 10.26&10.00 & 10.48&\textbf{10.00} & \textbf{10.10}&10.00 & 10.11\\
+\hline
+MinimumVertexCover\_16&8&12.00 & 12.44&12.00 & 12.01&12.00 & 12.13&\textbf{12.00} & \textbf{12.00}&\textbf{12.00} & \textbf{12.00}\\
+\hline
+MinimumVertexCover\_17&8&12.00 & 13.21&12.00 & 12.05&12.00 & 12.18&\textbf{12.00} & \textbf{12.02}&\textbf{12.00} & \textbf{12.02}\\
+\hline
+MinimumVertexCover\_18&9&14.00 & 14.45&14.00 & 14.02&14.00 & 14.03&\textbf{14.00} & \textbf{14.00}&14.00 & 14.01\\
+\hline
+MinimumVertexCover\_19&9&14.00 & 15.44&14.00 & 14.08&14.00 & 14.17&\textbf{14.00} & \textbf{14.03}&14.00 & 14.05\\
+\hline
+MinimumVertexCover\_20&10&15.00 & 16.01&15.00 & 15.04&15.00 & 15.05&\textbf{15.00} & \textbf{15.00}&\textbf{15.00} & \textbf{15.00}\\
+\hline
+MinimumVertexCover\_21&10&15.00 & 16.54&15.00 & 15.21&15.00 & 15.31&\textbf{15.00} & \textbf{15.10}&\textbf{15.00} & \textbf{15.10}\\
+\hline
+MinimumVertexCover\_22&11&17.00 & 18.51&17.00 & 17.27&17.00 & 17.11&\textbf{17.00} & \textbf{17.09}&17.00 & 17.14\\
+\hline
+MinimumVertexCover\_23&11&18.00 & 19.80&18.00 & 18.06&18.00 & 18.01&\textbf{18.00} & \textbf{18.00}&\textbf{18.00} & \textbf{18.00}\\
+\hline
+MinimumVertexCover\_24&12&19.00 & 21.41&19.00 & 19.28&\textbf{19.00} & \textbf{19.02}&19.00 & 19.04&19.00 & 19.07\\
+\hline
+MinimumVertexCover\_25&12&20.00 & 22.36&20.00 & 20.29&20.00 & 20.13&\textbf{20.00} & \textbf{20.07}&\textbf{20.00} & \textbf{20.06}\\
+\hline
+MinimumVertexCover\_26&26&20.00 & 22.70&20.00 & 21.16&\textbf{20.00} & \textbf{20.18}&20.00 & 20.36&20.00 & 20.20\\
+\hline
+MinimumVertexCover\_27&27&22.00 & 24.30&21.00 & 22.45&\textbf{21.00} & \textbf{21.33}&21.00 & 21.56&21.00 & 21.56\\
+\hline
+MinimumVertexCover\_28&28&23.00 & 26.15&21.00 & 22.88&\textbf{21.00} & \textbf{21.17}&21.00 & 21.59&21.00 & 21.46\\
+\hline
+MinimumVertexCover\_29&29&23.00 & 26.58&22.00 & 23.62&\textbf{22.00} & \textbf{22.95}&22.00 & 23.13&22.00 & 23.00\\
+\hline
+MinimumVertexCover\_30&120&24.00 & 25.67&24.00 & 25.88&\textbf{24.00} & \textbf{25.34}&24.00 & 25.87&24.00 & 25.74\\
+\hline
+MinimumVertexCover\_31&124&24.00 & 26.70&24.00 & 26.63&24.00 & 26.06&\textbf{24.00} & \textbf{26.43}&\textbf{24.00} & \textbf{26.26}\\
+\hline
+MinimumVertexCover\_32&128&27.00 & 28.94&26.00 & 28.04&\textbf{26.00} & \textbf{27.61}&26.00 & 28.03&26.00 & 28.16\\
+\hline
+MinimumVertexCover\_33&132&27.00 & 29.88&27.00 & 28.92&\textbf{27.00} & \textbf{28.25}&27.00 & 28.96&27.00 & 29.14\\
+\hline
+MinimumVertexCover\_34&136&27.00 & 30.66&28.00 & 30.09&\textbf{26.00} & \textbf{29.01}&27.00 & 29.99&27.00 & 29.95\\
+\hline
+MinimumVertexCover\_35&140&30.00 & 33.06&30.00 & 31.93&\textbf{28.00} & \textbf{31.64}&29.00 & 31.70&28.00 & 31.78\\
+\hline
+MinimumVertexCover\_36&144&31.00 & 34.23&31.00 & 32.48&\textbf{29.00} & \textbf{31.85}&30.00 & 32.43&29.00 & 32.17\\
+\hline
+MinimumVertexCover\_37&148&31.00 & 35.44&31.00 & 33.41&\textbf{31.00} & \textbf{32.70}&31.00 & 33.51&30.00 & 33.44\\
+\hline
+MinimumVertexCover\_38&152&33.00 & 38.64&32.00 & 34.14&\textbf{32.00} & \textbf{34.48}&32.00 & 34.68&32.00 & 34.75\\
+\hline
+MinimumVertexCover\_39&156&34.00 & 40.46&34.00 & 36.33&\textbf{33.00} & \textbf{36.71}&32.00 & 36.88&32.00 & 36.40\\
+\hline
+MinimumVertexCover\_40&160&35.00 & 41.84&34.00 & 37.01&\textbf{34.00} & \textbf{36.77}&34.00 & 36.95&34.00 & 37.13\\
+\hline
+MinimumVertexCover\_41&20500&34.00 & 35.10&33.00 & 35.11&\textbf{33.00} & \textbf{33.33}&33.00 & 33.53&\textbf{33.00} & \textbf{33.63}\\
+\hline
+MinimumVertexCover\_42&21000&36.00 & 36.81&36.00 & 36.57&\textbf{35.00} & \textbf{35.29}&\textbf{35.00} & \textbf{35.61}&\textbf{35.00} & \textbf{35.59}\\
+\hline
+MinimumVertexCover\_43&21500&36.00 & 37.62&36.00 & 37.52&\textbf{36.00} & \textbf{36.42}&36.00 & 36.61&36.00 & 36.64\\
+\hline
+MinimumVertexCover\_44&176&39.00 & 50.65&39.00 & 41.75&\textbf{37.00} & \textbf{41.42}&37.00 & 41.30&37.00 & 41.85\\
+\hline
+MinimumVertexCover\_45&180&40.00 & 57.11&40.00 & 42.82&\textbf{39.00} & \textbf{43.13}&39.00 & 43.19&40.00 & 42.60\\
+\hline
+MinimumVertexCover\_46&184&41.00 & 56.30&40.00 & 44.40&\textbf{40.00} & \textbf{45.19}&40.00 & 43.83&40.00 & 43.83\\
+\hline
+MinimumVertexCover\_47&188&43.00 & 57.32&42.00 & 45.70&\textbf{40.00} & \textbf{45.64}&41.00 & 45.06&40.00 & 45.09\\
+\hline
+MinimumVertexCover\_48&192&43.00 & 65.13&42.00 & 46.54&\textbf{40.00} & \textbf{45.47}&41.00 & 45.56&40.00 & 44.97\\
+\hline
+MinimumVertexCover\_49&196&44.00 & 66.71&44.00 & 49.22&\textbf{42.00} & \textbf{47.32}&43.00 & 47.35&42.00 & 47.49\\
+\hline
+MinimumVertexCover\_50&200&45.00 & 67.33&44.00 & 49.26&\textbf{42.00} & \textbf{48.23}&42.00 & 47.76&43.00 & 48.04\\
+\hline
+MinimumVertexCover\_51&204&53.00 & 73.88&46.00 & 50.88&\textbf{45.00} & \textbf{48.98}&45.00 & 49.53&45.00 & 49.21\\
+\hline
+MinimumVertexCover\_52&208&48.00 & 76.64&47.00 & 51.18&45.00 & 52.47&46.00 & 50.79&\textbf{45.00} & \textbf{50.28}\\
+\hline
+MinimumVertexCover\_53&212&49.00 & 82.16&48.00 & 52.48&\textbf{47.00} & \textbf{52.87}&46.00 & 52.01&46.00 & 51.90\\
+\hline
+MinimumVertexCover\_54&216&56.00 & 81.63&48.00 & 53.45&47.00 & 53.40&\textbf{47.00} & \textbf{53.01}&47.00 & 52.47\\
+\hline
+MinimumVertexCover\_55&220&58.00 & 88.41&51.00 & 58.02&\textbf{48.00} & \textbf{53.53}&48.00 & 53.61&48.00 & 53.49\\
+\hline
+MinimumVertexCover\_56&224&51.00 & 94.81&51.00 & 57.45&\textbf{49.00} & \textbf{56.50}&50.00 & 55.66&49.00 & 54.66\\
+\hline
+MinimumVertexCover\_57&228&60.00 & 95.35&53.00 & 59.33&50.00 & 58.34&\textbf{50.00} & \textbf{56.55}&51.00 & 56.96\\
+\hline
+MinimumVertexCover\_58&232&61.00 & 104.83&53.00 & 59.74&\textbf{51.00} & \textbf{59.79}&51.00 & 58.18&51.00 & 57.75\\
+\hline
+MinimumVertexCover\_59&236&63.00 & 107.74&54.00 & 60.97&\textbf{51.00} & \textbf{58.13}&52.00 & 58.54&52.00 & 57.86\\
+\hline
+MinimumVertexCover\_60&240&70.00 & 112.95&55.00 & 61.10&52.00 & 60.43&\textbf{52.00} & \textbf{59.01}&53.00 & 59.27\\
+\hline
+MinimumVertexCover\_61&244&63.00 & 119.21&56.00 & 63.16&53.00 & 61.01&55.00 & 60.02&\textbf{53.00} & \textbf{59.80}\\
+\hline
+MinimumVertexCover\_62&248&83.00 & 121.15&57.00 & 63.63&55.00 & 63.53&\textbf{55.00} & \textbf{61.24}&\textbf{55.00} & \textbf{61.15}\\
+\hline
+MinimumVertexCover\_63&252&80.00 & 123.34&58.00 & 63.89&55.00 & 63.95&56.00 & 62.42&\textbf{56.00} & \textbf{61.11}\\
+\hline
+MinimumVertexCover\_64&256&74.00 & 127.36&60.00 & 67.88&57.00 & 65.98&57.00 & 64.12&\textbf{57.00} & \textbf{63.63}\\
+\hline
+MinimumVertexCover\_65&260&76.00 & 134.87&60.00 & 69.01&58.00 & 68.45&58.00 & 66.67&\textbf{57.00} & \textbf{65.46}\\
+\hline
+MinimumVertexCover\_66&264&79.00 & 147.12&62.00 & 71.32&59.00 & 69.23&60.00 & 66.93&\textbf{59.00} & \textbf{67.36}\\
+\hline
+MinimumVertexCover\_67&268&93.00 & 144.37&63.00 & 71.06&60.00 & 70.05&61.00 & 67.85&\textbf{60.00} & \textbf{67.25}\\
+\hline
+MinimumVertexCover\_68&272&80.00 & 153.30&63.00 & 74.46&61.00 & 70.11&\textbf{61.00} & \textbf{68.07}&60.00 & 69.27\\
+\hline
+MinimumVertexCover\_69&276&94.00 & 154.24&65.00 & 74.45&62.00 & 71.56&62.00 & 70.57&\textbf{62.00} & \textbf{69.12}\\
+\hline
+MinimumVertexCover\_70&280&82.00 & 170.12&66.00 & 73.66&63.00 & 73.29&64.00 & 71.39&\textbf{64.00} & \textbf{70.80}\\
+\hline
+MinimumVertexCover\_71&284&82.00 & 168.97&67.00 & 74.55&64.00 & 75.10&64.00 & 72.60&\textbf{64.00} & \textbf{72.52}\\
+\hline
+MinimumVertexCover\_72&288&92.00 & 176.10&68.00 & 76.35&64.00 & 74.78&65.00 & 73.23&\textbf{64.00} & \textbf{71.86}\\
+\hline
+MinimumVertexCover\_73&292&106.00 & 179.57&68.00 & 79.05&66.00 & 76.83&\textbf{66.00} & \textbf{74.16}&67.00 & 73.94\\
+\hline
+MinimumVertexCover\_74&296&125.00 & 191.00&70.00 & 79.06&67.00 & 78.03&67.00 & 76.88&\textbf{67.00} & \textbf{75.32}\\
+\hline
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}

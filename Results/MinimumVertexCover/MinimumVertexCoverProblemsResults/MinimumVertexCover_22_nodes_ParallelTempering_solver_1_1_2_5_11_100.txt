@@ -1,0 +1,184 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 22
+The considered Annealing Duration 11
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1 -1 -1  1  1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1  1 -1 -1 -1  1 -1]
+The value found 17.0
+The Success probability is 0.77
+The average value is 17.27
+The total execution time is 4.016132354736328
+The average time for execution is 0.04016132354736328
+The average time for all systems update is 0.0034379436753012916
+The average time for system update is 0.0006677563407204368
+The average time for replica update is 0.00033365017717534845
+The average time for spin update is 1.4834150795109015e-05
+The list of values found 
+
+18.0
+17.0
+19.0
+17.0
+17.0
+17.0
+17.0
+17.0
+19.0
+17.0
+17.0
+17.0
+19.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+18.0
+19.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+18.0
+17.0
+18.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+
+
+
+The list of values first execution 
+
+75.6
+139.5
+102.1
+75.7
+106.6
+106.9
+88.9
+101.0
+117.0
+73.5
+111.9
+
+
+
+The list of best values first execution 
+
+18.0
+42.0
+33.0
+25.0
+40.0
+26.0
+33.0
+19.0
+20.0
+19.0
+32.0
+
+
+
+The list of values average 
+
+62.69000000000002
+130.09400000000005
+114.37300000000002
+76.62999999999998
+111.43500000000003
+104.09399999999997
+78.96800000000002
+108.78100000000008
+104.08499999999997
+79.96599999999998
+106.82399999999996
+
+
+
+The list of best values average 
+
+19.759999999999998
+25.210000000000004
+25.730000000000008
+23.13
+22.09
+23.960000000000008
+24.110000000000003
+23.71999999999999
+24.220000000000013
+23.890000000000004
+23.490000000000006

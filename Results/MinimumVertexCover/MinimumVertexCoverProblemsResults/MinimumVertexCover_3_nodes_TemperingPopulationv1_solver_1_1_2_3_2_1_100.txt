@@ -1,0 +1,147 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin3
+The considered Annealing Duration 1
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [[ 1 -1  1]
+ [-1  1 -1]]
+The value found 1.0
+The Success probability is 1.0
+The average value is 1.0
+The total execution time is 0.08291387557983398
+The average time for execution is 0.000816495418548584
+The average time for all systems update is 0.0004892730712890625
+The average time for system tempering update is 6.0068766276041665e-05
+The average time for system population update is 0.01922917366027832
+The average time for replica update is 3.528738021850586e-05
+The average time for spin update is 1.0762850443522135e-05
+The list of values found 
+
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+
+
+
+The list of values first execution 
+
+1.6
+
+
+
+The list of best values first execution 
+
+1.0
+
+
+
+The list of values average 
+
+1.4979999999999993
+
+
+
+The list of best values average 
+
+1.0000000000000007

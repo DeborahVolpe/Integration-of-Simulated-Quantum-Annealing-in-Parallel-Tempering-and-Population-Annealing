@@ -1,0 +1,171 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin19
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1.  1. -1. -1. -1. -1. -1.  1. -1. -1. -1.  1. -1. -1.  1. -1. -1.  1.
+ -1.]
+The value found 14.0
+The Success probability is 0.97
+The average value is 14.03
+The total execution time is 3.1229450702667236
+The average time for execution is 0.031229450702667236
+The average time for all systems update is 0.003357608848147922
+The average time for system tempering update is 0.0005782506201002333
+The average time for system population update is 1.294302225112915
+The average time for replica update is 0.0003169434600406223
+The average time for spin update is 1.6268455494217008e-05
+The list of values found 
+
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+
+
+
+The list of values first execution 
+
+65.3
+100.6
+63.3
+59.4
+68.9
+47.5
+57.4
+52.9
+45.1
+
+
+
+The list of best values first execution 
+
+17.0
+22.0
+14.0
+14.0
+21.0
+15.0
+14.0
+15.0
+14.0
+
+
+
+The list of values average 
+
+51.63
+106.23900000000002
+90.09
+51.548
+68.52100000000003
+61.907999999999994
+43.509
+54.639000000000024
+53.51899999999997
+
+
+
+The list of best values average 
+
+16.9900000000000119.77000000000001417.0500000000000216.1400000000000216.0400000000000216.21000000000002615.04000000000002214.62000000000001914.520000000000023

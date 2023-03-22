@@ -1,0 +1,182 @@
+----------Report of simulation of Path Integral Quantum Monte Carlo-----------
+The number of considered Spin 22
+The considered Annealing Duration 11
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 10
+The solution found [-1 -1 -1 -1 -1  1 -1 -1 -1 -1  1 -1 -1 -1  1 -1  1  1 -1 -1 -1 -1]
+The value found 17.0
+The Success probability is 0.06
+The average value is 18.51
+The total execution time is 3.1038312911987305
+The average time for execution is 0.03102771520614624
+The average time for system update is 0.0027674412727355957
+The average time for replica update is 0.00027647575465115633
+The average time for spin update is 1.225392483482676e-05
+The list of values found 
+
+19.0
+18.0
+18.0
+18.0
+17.0
+19.0
+19.0
+19.0
+19.0
+19.0
+19.0
+18.0
+19.0
+19.0
+19.0
+19.0
+20.0
+19.0
+18.0
+19.0
+19.0
+18.0
+17.0
+18.0
+17.0
+19.0
+19.0
+18.0
+18.0
+19.0
+18.0
+18.0
+19.0
+18.0
+18.0
+18.0
+18.0
+18.0
+27.0
+18.0
+18.0
+19.0
+18.0
+19.0
+18.0
+19.0
+19.0
+19.0
+18.0
+18.0
+19.0
+20.0
+18.0
+18.0
+19.0
+18.0
+19.0
+18.0
+17.0
+18.0
+19.0
+19.0
+19.0
+19.0
+18.0
+18.0
+19.0
+17.0
+19.0
+18.0
+18.0
+17.0
+18.0
+19.0
+19.0
+18.0
+18.0
+18.0
+18.0
+19.0
+18.0
+18.0
+19.0
+18.0
+18.0
+18.0
+19.0
+19.0
+18.0
+18.0
+18.0
+18.0
+19.0
+19.0
+19.0
+18.0
+19.0
+20.0
+18.0
+18.0
+
+
+
+The list of values first execution 
+
+57.5
+149.5
+62.5
+100.6
+73.5
+86.0
+97.2
+70.4
+80.4
+80.5
+77.6
+
+
+
+The list of best values first execution 
+
+19.0
+41.0
+20.0
+41.0
+26.0
+26.0
+34.0
+33.0
+34.0
+27.0
+42.0
+
+
+
+The list of values average 
+
+54.22300000000003
+145.31200000000004
+60.678
+103.379
+69.25100000000003
+90.73599999999996
+75.86100000000002
+83.37000000000003
+79.61800000000001
+82.606
+80.33900000000003
+
+
+
+The list of best values average 
+
+21.589999999999996
+53.71999999999999
+23.769999999999992
+36.199999999999996
+25.07
+32.180000000000014
+25.720000000000006
+29.98000000000001
+28.28000000000002
+30.49000000000001
+29.02000000000001

@@ -1,0 +1,185 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 22
+The considered Annealing Duration 11
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1.  1. -1. -1.  1.  1. -1.  1. -1. -1. -1. -1. -1. -1.  1. -1. -1. -1.
+ -1. -1. -1. -1.]
+The value found 17.0
+The Success probability is 0.89
+The average value is 17.11
+The total execution time is 3.2163312435150146
+The average time for execution is 0.032163312435150145
+The average time for all systems update is 0.0028650786659934306
+The average time for system update is 0.000557174639268355
+The average time for replica update is 0.00027808455987410113
+The average time for spin update is 1.2349431179771739e-05
+The list of values found 
+
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+17.0
+18.0
+17.0
+17.0
+17.0
+17.0
+17.0
+
+
+
+The list of values first execution 
+
+95.0
+153.3
+115.8
+77.2
+85.9
+41.2
+42.7
+29.3
+34.9
+26.8
+25.0
+
+
+
+The list of best values first execution 
+
+34.0
+34.0
+42.0
+27.0
+48.0
+25.0
+33.0
+19.0
+17.0
+24.0
+17.0
+
+
+
+The list of values average 
+
+72.71900000000002
+174.43500000000006
+163.4770000000001
+57.039
+88.02200000000003
+51.29200000000002
+42.255
+39.01800000000001
+30.76799999999999
+26.63200000000001
+24.573000000000008
+
+
+
+The list of best values average 
+
+25.290000000000013
+43.31000000000001
+56.990000000000016
+34.61000000000001
+55.20000000000002
+30.260000000000012
+28.85
+24.090000000000018
+19.399999999999995
+18.520000000000003
+18.12000000000001

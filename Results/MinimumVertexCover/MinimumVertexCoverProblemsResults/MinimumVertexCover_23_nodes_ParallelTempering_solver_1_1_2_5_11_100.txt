@@ -1,0 +1,184 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 23
+The considered Annealing Duration 11
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1 -1 -1 -1 -1 -1 -1  1 -1 -1  1 -1 -1 -1  1 -1 -1 -1  1 -1 -1  1 -1]
+The value found 18.0
+The Success probability is 0.94
+The average value is 18.06
+The total execution time is 4.173482418060303
+The average time for execution is 0.04171470880508423
+The average time for all systems update is 0.0035906399380077015
+The average time for system update is 0.0006968667290427468
+The average time for replica update is 0.00034780610691417346
+The average time for spin update is 1.4771702732493283e-05
+The list of values found 
+
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+19.0
+19.0
+18.0
+19.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+19.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+19.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+19.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+18.0
+
+
+
+The list of values first execution 
+
+82.5
+146.0
+126.0
+97.3
+122.5
+111.6
+101.2
+120.1
+110.2
+100.4
+120.2
+
+
+
+The list of best values first execution 
+
+20.0
+25.0
+26.0
+25.0
+18.0
+25.0
+25.0
+18.0
+25.0
+19.0
+20.0
+
+
+
+The list of values average 
+
+70.685
+149.10299999999995
+125.29299999999995
+84.08100000000003
+132.892
+115.45400000000005
+89.691
+127.73999999999998
+111.51399999999998
+92.93800000000002
+124.60600000000001
+
+
+
+The list of best values average 
+
+21.020000000000003
+27.410000000000014
+24.69999999999999
+23.18000000000001
+23.60999999999998
+23.429999999999993
+22.529999999999998
+23.039999999999996
+23.069999999999997
+22.299999999999986
+22.229999999999993

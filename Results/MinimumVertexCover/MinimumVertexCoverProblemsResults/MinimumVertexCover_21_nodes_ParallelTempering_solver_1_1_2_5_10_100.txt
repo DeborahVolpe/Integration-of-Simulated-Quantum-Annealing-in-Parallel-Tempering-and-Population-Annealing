@@ -1,0 +1,180 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 21
+The considered Annealing Duration 10
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [ 1 -1  1 -1 -1  1 -1 -1  1 -1 -1 -1  1 -1  1 -1 -1 -1 -1 -1 -1]
+The value found 15.0
+The Success probability is 0.17
+The average value is 15.21
+The total execution time is 3.208095073699951
+The average time for execution is 0.032080950736999514
+The average time for all systems update is 0.0030307092666625977
+The average time for system update is 0.000584889554977417
+The average time for replica update is 0.0002917375087738037
+The average time for spin update is 1.3448569888160343e-05
+The list of values found 
+
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+16.0
+15.0
+16.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+16.0
+16.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+16.0
+17.0
+15.0
+15.0
+16.0
+16.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+16.0
+15.0
+17.0
+
+
+
+The list of values first execution 
+
+51.6
+86.9
+96.7
+59.7
+80.7
+91.1
+61.9
+85.6
+83.4
+62.5
+
+
+
+The list of best values first execution 
+
+18.0
+16.0
+16.0
+16.0
+16.0
+16.0
+25.0
+24.0
+15.0
+15.0
+
+
+
+The list of values average 
+
+53.12700000000001
+106.87100000000001
+86.859
+61.320000000000014
+88.39899999999997
+81.542
+64.731
+82.36299999999997
+80.60000000000001
+67.09399999999998
+
+
+
+The list of best values average 
+
+17.90999999999999
+21.330000000000005
+19.320000000000004
+19.100000000000005
+19.620000000000008
+17.860000000000003
+17.85000000000001
+18.690000000000012
+18.02000000000001
+18.14000000000001

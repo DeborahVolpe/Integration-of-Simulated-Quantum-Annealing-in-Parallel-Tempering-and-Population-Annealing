@@ -1,0 +1,176 @@
+----------Report of simulation of Quantum Population Annealing-----------
+The number of considered Spin 18
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1. -1. -1. -1.  1.  1. -1. -1.  1. -1. -1. -1. -1. -1. -1. -1. -1.  1.]
+The value found 14.0
+The Success probability is 0.97
+The average value is 14.03
+The total execution time is 2.1873364448547363
+The average time for execution is 0.021873364448547362
+The average time for all systems update is 0.002356941435072157
+The average time for system update is 0.00045405054092407225
+The average time for replica update is 0.0002265048556857639
+The average time for spin update is 1.2166029141273028e-05
+The list of values found 
+
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+
+
+
+The list of values first execution 
+
+62.4
+99.9
+99.5
+37.8
+46.7
+41.0
+29.1
+19.8
+26.3
+
+
+
+The list of best values first execution 
+
+22.0
+45.0
+30.0
+30.0
+21.0
+38.0
+16.0
+14.0
+22.0
+
+
+
+The list of values average 
+
+54.37399999999998
+121.02299999999998
+104.11399999999998
+42.21299999999998
+47.52999999999999
+43.31700000000001
+25.85899999999999
+21.81100000000001
+21.419999999999995
+
+
+
+The list of best values average 
+
+19.53000000000001
+36.15999999999999
+35.64999999999998
+23.83000000000001
+26.659999999999993
+27.889999999999993
+15.840000000000021
+15.03000000000002
+15.680000000000026

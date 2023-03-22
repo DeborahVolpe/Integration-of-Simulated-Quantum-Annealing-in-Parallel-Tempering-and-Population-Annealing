@@ -1,0 +1,176 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 18
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1  1 -1  1 -1 -1 -1 -1 -1 -1 -1 -1 -1  1 -1  1 -1 -1]
+The value found 14.0
+The Success probability is 0.98
+The average value is 14.02
+The total execution time is 2.4445858001708984
+The average time for execution is 0.024445858001708985
+The average time for all systems update is 0.0025245873133341473
+The average time for system update is 0.0004796903398301866
+The average time for replica update is 0.00023956698841518827
+The average time for spin update is 1.287896250501091e-05
+The list of values found 
+
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+
+
+
+The list of values first execution 
+
+29.5
+104.0
+89.5
+60.1
+76.8
+66.4
+55.3
+72.0
+78.3
+
+
+
+The list of best values first execution 
+
+15.0
+14.0
+15.0
+16.0
+21.0
+14.0
+15.0
+14.0
+14.0
+
+
+
+The list of values average 
+
+45.661
+92.83000000000001
+75.22300000000001
+55.525000000000006
+75.17099999999999
+69.91300000000001
+58.855
+71.59700000000001
+69.10299999999998
+
+
+
+The list of best values average 
+
+15.91000000000002
+18.88000000000001
+17.690000000000023
+16.78000000000002
+17.380000000000024
+16.740000000000023
+17.320000000000025
+17.69000000000002
+17.410000000000025

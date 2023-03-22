@@ -1,0 +1,167 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin16
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1. -1. -1.  1. -1. -1. -1. -1. -1. -1.  1. -1. -1.  1. -1.  1.]
+The value found 12.0
+The Success probability is 1.0
+The average value is 12.0
+The total execution time is 6.890085935592651
+The average time for execution is 0.06890085935592652
+The average time for all systems update is 0.008255157470703125
+The average time for system tempering update is 0.0013372355699539185
+The average time for system population update is 2.813481330871582
+The average time for replica update is 0.0007508065104484558
+The average time for spin update is 4.550781473517418e-05
+The list of values found 
+
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values first execution 
+
+28.1
+84.5
+74.9
+38.8
+48.6
+67.1
+36.6
+58.9
+
+
+
+The list of best values first execution 
+
+14.0
+19.0
+12.0
+20.0
+12.0
+13.0
+12.0
+12.0
+
+
+
+The list of values average 
+
+39.46500000000001
+80.09099999999998
+64.989
+42.22699999999999
+49.21000000000001
+43.77400000000001
+36.14000000000001
+41.46699999999999
+
+
+
+The list of best values average 
+
+13.51000000000001814.9099999999999913.53999999999999413.9399999999999913.46999999999998513.09999999999999312.48999999999998612.639999999999985

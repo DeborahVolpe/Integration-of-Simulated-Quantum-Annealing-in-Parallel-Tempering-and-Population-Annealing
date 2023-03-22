@@ -1,0 +1,176 @@
+----------Report of simulation of Quantum Parallel Tempering-----------
+The number of considered Spin 19
+The considered Annealing Duration 9
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System 5
+The solution found [-1 -1  1 -1  1  1 -1 -1 -1 -1  1 -1  1 -1 -1 -1 -1 -1 -1]
+The value found 14.0
+The Success probability is 0.93
+The average value is 14.08
+The total execution time is 2.6702582836151123
+The average time for execution is 0.026702582836151123
+The average time for all systems update is 0.002762245602077908
+The average time for system update is 0.0005332606633504232
+The average time for replica update is 0.0002660998503367106
+The average time for spin update is 1.3597445181238721e-05
+The list of values found 
+
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+16.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+15.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+14.0
+
+
+
+The list of values first execution 
+
+56.8
+119.4
+112.2
+67.0
+91.6
+84.8
+59.5
+72.0
+81.5
+
+
+
+The list of best values first execution 
+
+15.0
+16.0
+17.0
+15.0
+15.0
+16.0
+14.0
+14.0
+14.0
+
+
+
+The list of values average 
+
+49.388999999999996
+101.99999999999999
+82.815
+57.81599999999999
+84.43200000000003
+76.55299999999998
+62.663000000000025
+78.48500000000004
+76.50200000000001
+
+
+
+The list of best values average 
+
+16.770000000000007
+20.030000000000012
+17.65000000000002
+16.700000000000024
+15.670000000000025
+17.560000000000027
+15.830000000000023
+15.290000000000022
+15.960000000000024

@@ -1,0 +1,167 @@
+----------Report of simulation of Quantum Parallel Tempering - Population Annealing v1-----------
+The number of considered Spin17
+The considered Annealing Duration 8
+The considered Annealing Number 100
+The considered T 1.0
+The considered Gamma0 1.0
+The considered Number Of Replica 2
+The considered Number Of System Tempering 3
+The considered Number Of System Population 2
+The solution found [-1.  1.  1. -1. -1.  1. -1. -1.  1. -1. -1. -1. -1.  1. -1. -1. -1.]
+The value found 12.0
+The Success probability is 0.98
+The average value is 12.02
+The total execution time is 2.185598134994507
+The average time for execution is 0.02185598134994507
+The average time for all systems update is 0.0026332247257232666
+The average time for system tempering update is 0.00044390668471654257
+The average time for system population update is 0.8709700107574463
+The average time for replica update is 0.00024160152673721313
+The average time for spin update is 1.3849775580798878e-05
+The list of values found 
+
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+
+
+
+The list of values first execution 
+
+47.3
+69.6
+74.1
+38.2
+44.4
+46.0
+24.5
+39.2
+
+
+
+The list of best values first execution 
+
+14.0
+12.0
+12.0
+15.0
+19.0
+13.0
+13.0
+12.0
+
+
+
+The list of values average 
+
+42.3
+89.11300000000001
+70.45500000000001
+43.574
+52.4
+47.836999999999996
+35.839999999999996
+42.608
+
+
+
+The list of best values average 
+
+14.41000000000002515.23000000000000213.49999999999999813.28000000000000113.22999999999999912.73999999999998812.38999999999999512.309999999999988

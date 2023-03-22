@@ -1,0 +1,158 @@
+\begin{table*}
+\begin{center}
+\begin{tabular}{?c|c?c?c?c|c?c|c?c|c|c?c|c|c?}
+\noalign{\hrule height 1.5pt}
+\multicolumn{2}{?c?}{\textbf{Problem}} & \multirow{2}{*}{$N_{\textrm{tot\_copies}}$} & \textbf{SQA} & \multicolumn{2}{c?}{\textbf{SQPT}} &   \multicolumn{2}{c?}{\textbf{SQPA}} &   \multicolumn{3}{c?}{\textbf{SQPTPA1}} & \multicolumn{3}{c?}{\textbf{SQPTPA2}} \\
+\cline{1-2}\cline{4-14}
+\textbf{Name} & $v_{q}$ & & $M$ & $M$ & $SYS$ &  $M$ & $SYS$  &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ &  $M$ & $SYS_{\textrm{temp}}$ & $SYS_{\textrm{pop}}$ \\
+\noalign{\hrule height 1.5pt}
+MinimumVertexCover\_3&3&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_4&4&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_5&5&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_6&6&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_7&7&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_8&8&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_9&9&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_10&10&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_11&11&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_12&12&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_13&13&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_14&14&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_15&15&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_16&16&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_17&17&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_18&18&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_19&19&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_20&20&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_21&21&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_22&22&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_23&23&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_24&24&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_25&25&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_26&26&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_27&27&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_28&28&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_29&29&10 & 10&2 & 5&2 & 5&2 & 3&2&2 & 3&2\\
+ \hline 
+MinimumVertexCover\_30&30&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_31&31&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_32&32&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_33&33&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_34&34&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_35&35&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_36&36&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_37&37&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_38&38&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_39&39&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_40&40&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_41&41&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_42&42&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_43&43&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_44&44&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_45&45&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_46&46&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_47&47&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_48&48&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_49&49&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_50&50&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_51&51&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_52&52&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_53&53&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_54&54&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_55&55&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_56&56&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_57&57&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_58&58&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_59&59&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_60&60&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_61&61&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_62&62&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_63&63&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_64&64&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_65&65&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_66&66&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_67&67&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_68&68&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_69&69&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_70&70&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_71&71&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_72&72&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_73&73&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+MinimumVertexCover\_74&74&18 & 18&3 & 6&3 & 6&3 & 3&3&3 & 3&3\\
+ \hline 
+\noalign{\hrule height 1.5pt}
+\hline
+\end{tabular}
+\end{center}
+\label{tab:TableResults1}
+\end{table*}
